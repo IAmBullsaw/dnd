@@ -14,6 +14,7 @@ if __name__ == '__main__':
   <head>
     <title>Sjötermer</title>
     <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
   </head>
   <body>
   """
