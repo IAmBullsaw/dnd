@@ -1,0 +1,341 @@
+
+Akterut anger befintlighet, något finns akterut.
+Exempel: "Flaggspelet finns längst akterut".
+
+Akteröver anger riktning, man beger sig akteröver.
+Exempel: "Revengegrundets fyr rakt akteröver".
+
+Angöra. Att gå in så pass nära mot land att man bestämma sin position. Vid territorialvattengränsen finns s.k. angöringsbojar som markerar början på en farled.
+
+Ankare. Ett föremål vars syfte är att fällas/hivas överbord för att sedan fästa i sjöbotten för att hålla fast ett fartyg.
+
+Anlöpa. Att komma fram till sin destination. T.ex. gå in i (anlöpa) en hamn.
+
+Ansätta. Att med hjälp av ansättningsskruvar eller taljor styva upp ett fartygs stående gods.
+
+Avhåll. Några öglor lagda runt en pollare eller ett spel för att minska belastningen vid firning.
+
+Avrusta. Att avrigga ett fartyg samt vidtaga åtgärder för att skydda/förrådsställa materielen i land. Segelbåtar och andra mindre fartyg avrustas i regel varje höst.
+
+Bardun. Stående gods som stöttar stångtopp till däck i akterlig riktning.
+
+Barkass. Stor, tung båt för transport av tyngre last. Är oftast avsedd att halas/firas i dävertar på större fartyg.
+
+Barlast. Tungt material, även vatten eller bränsle, som placeras i botten under vattenlinjen för att öka ett fartygs stabilitet.
+
+Bedarra. Då hård vind eller storm avtar i styrka.
+
+Befälhavare. Chefen på ett handelsfartyg, (se Fartygschef).
+
+Beknip. Ett tåg eller en knop är i beknip då det fastklämts så att det ej utan vidare kan lossas.
+
+Belägga. Att fastgöra ett tåg eller en ända så att det lätt kan lossas, men ej kan komma loss av sig självt.
+
+Bensel. Att med garn naja ihop två tåg så att de ej kan löpa.
+
+Beslå. Att medelst tränsling hålla ihop och fastgöra ett bärgat segel till bom, mast eller rå.
+
+Bestick. Hjälpmedel vid navigering, t.ex. passare, transportör och linjal.
+
+Bestickföring. Innebär att man kontinuerligt fastställer sin position med hjälp av ytobservationer och beräknar ny/fortsatt kurs, samt för in denna i sjökortet.
+
+Bidevind är när man seglar med vinden för om tvärs, kallas även sträckbog.
+
+Bleke. Vindstilla, stiltje.
+
+Bordläggning är den yta som skiljer insidan av båten från vattnet på utsidan. Tillsammans med de balkar och spant som bär upp den bildar det skrovet. Ej att förväxla med ombordläggning (se Lägga ombord).
+
+Bränning. Uppkommer då en våg stöter på ett hinder och slutar sin bana i en vit kaskad av skum. En tydlig varningssignal som tyder på grunt vatten.
+
+Båt Se Fartyg.
+
+Bänka. Att i sjökortet mäta distansen till en bestämd plats.
+
+Bära av. Att hindra en båt från att stöta mot eller hugga mot en kaj eller dylikt.
+
+Bära hän. Att påskynda ett arbetes utförande. Liktyding med "Sätt fart!"
+
+Bäring är vinkeln mellan norr och syftlinjen till ett föremål.
+Exempel: En fyr som finns rakt österut från ett fartyg ligger på bäring 90 grader från fartyget, fartyget ligger på bäring 270 grader från fyren.
+
+Dejsa. Att under segling göra fart akteröver.
+
+Deplacement är vikten av den vattenmassa som fartyget undantränger, d.v.s. totalvikten av fartyg med last och allt.
+
+Deviation är det vinkelfel som uppstår då ledande föremål på båten påverkar kompasen. Detta vinkelfel är olika på olika kurser och kompenseras antingen av kompensationsmagneter i kompassen eller med en deviationstabell där vinkelfelet för varje kurs finns införd. (Se Missvisning).
+
+Dikt. Så mycket det går. T.ex. dikt bidevind eller rodret styrbord dikt.
+
+Dirk kallas det tåg som håller upp bommen då seglet inte är hissat.
+
+Dragg. Ett slags lättankare med fyra flyn som är infällbara mot läggen för att underlätta stuvning.
+
+Dragga. När ett fartygs ankare släpar längst sjöbotten. Kan även betyda att med en dragg försöka fånga ett föremål på botten.
+
+Durk. Golvet på ett fartyg heter durk. På örlogsfartyg även särskilt förvaringsutrymme t.ex. ammunitionsdurk.
+
+Dykdalb. En kon av stockar nedslagna i sjöbotten. Används för att fästa förtöjningsgods vid då man som regel förtöjer mellan dykdalben och kajen. Namnet härstammar från dess konstruktör, hertigen av Alba (duc d'Albe).
+
+
+Dyvika. En propp till länshål för avtappning av vatten i båt. Proppen används till att hindra att vatten tränger in i båten.
+
+Däck. Dels med innebörden "ute i det fria" (ute på däck) och dels "våningsplan" ombord, t.ex. bildäck på passagerarfärjor och artilleridäck på äldre örlogsfartyg.
+
+Dävert. En hissanordning för att på större fartyg hala/fira livbåtar eller barkasser.
+
+Enslinje. En linje som löper genom två väl synliga föremål och kan användas för navigering. Ofta sätts sjömärken ut så att de bildar en enslinje som sammanfaller med en farled.
+
+Ensmärke. Ett väl synligt föremål eller sjömärke. Två ensmärken bildar en enslinje.
+
+Fall. Tåg med vilket segel hissas.
+
+Falla av sägs ett fartyg göra när dess förstäv avlägsnar sig från vinden. Motsatsen är lova.
+
+Fallgirighet. Ett segelfartygs benägenhet att vid midskepps ror falla av. Ett fallgirigt fartyg måste stöttas med rodret mot vinden för att hålla rak kurs.
+
+Fallrep eller fallrepstrappa. En trappa som fälls ner längst ett fartygs styrbordssida och gör så att folk kan komma till och från fartyget i små båtar, t.ex. barkasser.
+
+Famn. Maritimt längdmått, sex fot eller 1,829 meter. Har flitigt använts för bl.a. havsdjup men ersätts alltmer av det metriska systemet.
+
+Fartyg. Varje farkost som kan användas till transport på vattnet och med minst 12 m längd och 4 m bredd. Mindre fartyg kallas båt. Undantag är undervattensfarkoster vilka kallas ubåtar oavsett storlek, samt farkoster som saknar skrov, t.ex. flottar och svävare.
+
+Fartygschef. Chef på örlogsfartyg, (se Befälhavare).
+
+Fendert eller fender. Buffert av mjukt material för att ta upp stötar vid t.ex. tilläggning, (se Frihult).
+
+Fira. Att kontrolerat ge efter på ett tåg så att firningen när som helst kan stoppas (i motsats till "låta gå" då ett föremål tillåts falla fritt). Firning kan ske med eller utan avhåll Fira är motsattsen till hala.
+
+Flaggspel. Flaggstången längs akterut där nationalitetsflaggan förs.
+
+Fribord är fartygssidans minsta höjd över vattenytan.
+
+Frihult. Timmerbitar eller bildäck som hängs ut över fartygssidan för att skydda denna. Till skillnad från fendertar kan en frihult vara permanent.
+
+Frimärke. Märken som bildar en enslinje som går fri från grund. Har inget med normal postgång att göra
+
+Frälsarkrans. Livboj av cirkulär typ.
+
+Fyr. En fyr är ett sjömärke som nattetid vägleder sjöfarten medelst ljussignaler. De är ofta stål- och/eller betong-konstruktioner som är placerade vid strandkanten eller på grunt vatten.
+
+Fyrkaraktär. För att underlätta identifieringen av fyrar så finns det faststälda fyrkaraktärer som återfinns i sjökortet. Dessa betecknas med förkortningar av deras engelska namn, t.ex. "Q(3)","Iso 6s", "Fl(2) 6s", "Mo(-·-) 10s".
+
+Förfånga. Att avlösa vakter och poster.
+
+Förtöja. Att lägga förtöjningståg mellan båt och kaj så att båten inte kan driva iväg.
+
+Förut. Anger befintlighet. Exempel: "Ankaret är placerat förut".
+
+Föröver. Anger riktning. Exempel: "Dra den där tampen föröver".
+
+Gaj. Kallas det tåg eller kätting som stöttar bom eller dävert. På segelbåtar kallas det gaj som stöttar storbommen för dirk, denna lossas då storseglet är hissat.
+
+Gardjärn är en avbärare av kraftiga stålrör som är till för att skydda ett fartygs bordläggning när det ligger vid kaj. Det finns oftast ganska långt akterut.
+
+Gippa. Vid länsning gira så att bomseglet slår över och vinden kommer in från andra sidan. Vid kraftig vind bör man ta hem på storskotet (och ducka) innan man gippar då kraften på bommen kan bli mycket stor.
+
+Glas. På fartyg är varje vakt är indelad i åtta glas om tretio minuter. "Fyra glas" kan alltså betyda klockan 2, 6, 10, 14, 18 eller 22 beroende på vilken vakt det är. Förr i tiden slog man alltid tiden i glas på skepsklockan. Se även vakt.
+
+Grogg Ursprungligen dagsransonen 24 cl rom per brittisk flottist, utspädd med fyra gånger så mycket vatten. Uppkallad efter amiral Edward "Old Grog" Vernon, vars öknamn syftade på hans slängkappa i det grova halvsidentyget grogram.
+
+Gå upp i vind gör man när man styr rätt emot vinden.
+
+Gös. Liten flagga som förs av örlogsfartyg i hamn på gösstake i fören.
+
+Hala. Att medelst tåg eller talja hissa upp ett föremål.
+
+Hala in/hem. Att hala ytterligare på ett redan styvt tåg.
+
+Hala ned. De flesta föremål halas när de ska upp och firas när det ska ner, utom flaggan som hissas på morgonen och halas (ner) på kvällen.
+
+Hala upp. Att medelst förtöjningstågen förflytta en båt som ligger vid fartygssidan föröver.
+
+Halkip. Öppning eller beslag vid relingen i för och akter. Förtöjnings- och akterlinor bör löpa genom dessa för att skyddas mot nötning.
+
+Hals. Tåg med vilket ett råsegels främre nedre horn hålls fast och manövreras. Ett fartyg seglar för babords halsar när det har vinden in från babord. För fulla halsar innebär att man i bidevind släpper ut halsarna så mycket det går för att kunna gå upp högt i vind.
+
+Halvvind innebär att man har vinden tvärs in om styrbord eller babord.
+
+Hem. Att ta/hala hem på ett något innebär att man drar det till sig. T.ex. "Ta hem ankaret" innebär att det dras upp från sjöbotten och in på sin plats i båten. "Ta hem det lösa" är samma som att styvhala. "Ta hem på storen" betyder att drar in bommen med storskotet.
+
+Hissa En flagga hissas på morgonen och halas (ner) på kvällen.
+
+Hiva. Används i betydelsen kasta något överbord t.ex. ett lod eller ett ankare.
+
+Horn. Ett hörn på ett segel, t.ex. Skothorn.
+
+Hugga. 1) Att hugga en hake är att fästa den i någonting t.ex. en ring eller bult.
+2) En båt hugger när den upprepade gånger stöter emot sjöbotten, kajen eller en annan båt.
+
+Hålla är ett vanligt ord i många sammanhang.
+Hålla an/igen är att hålla fast någonting och avvakta eller bara avvakta.
+Hålla emot är att bromsa en rörelse t.ex. ett fallande föremål
+Hålla kurs är att styra åt ett och samma håll utan onödiga girar.
+Hålla undan, väja, motsatatsen är kära
+
+Järngenua. Öknamn på en i en segelbåt monterad motor.
+
+Kantra. 1) En båt kantrar då den pressas omkull av vind, sjö eller förskjuten last.
+2) Vinden sägs kantra då den hastigt ändrar riktning.
+
+Kardinalmärken utmärker sjöfartshinder. Det finns nord-, syd-, väst- och ostmärken, de står norr, söder, väster och öster om hindret. Kardinalmärkena är mönstrade i svart och gult. Se även Lateralmärken.
+
+Kick. En kick är ett spel med block och talja som används för att spänna storseglet genom att dra bommen neråt längst masten.
+
+Klart skepp Innebär att ett örlogsfartyg är klart för omedelbar strid.
+
+Klys eller klyse. Ett hål genom ett fartygs bordläggning för genomföring av tåg eller kätting till förtöjning eller ankring.
+
+Knap Beslag på vilket man lägger fast skot och fall.
+
+Kompass. En magnetisk kompass består av en magnetisk kompassros, fritt upphängd i en kupol innehållande rostskyddande vätska som t.ex. sprit. Det finns även gyrostabiliseradde kompasser.
+
+Kompasshus Kallas det hölje som kompassen är upphängd i. Ofta är kompassen upphäng i kardaner som gör att den ligger horisontellt även om båten lutar.
+
+Kryssa. Att segla med omväxlande styrbords och babords bidevind.
+
+Kära. Att hålla nära t.ex. en boj, ett sjömärke eller en udde.
+
+Kölhala. När man kölhalar ett fartyg så spänner man en lina under kölen och drar den förut och akterut för att avlägsna skaldjur och annat som under årens lopp har fastnat under vattenlinjen.
+Kölhalning är också en gammal och grym bestraffningsmetod. Den går till så att ett rep sträcks under kölen, varefter den kölhalade dras ned under vattnet, under kölen och upp igen på andra sidan. Oftast så slutade det med att den kölhalade hamnade mellan repet och kölen och klämdes till döds.
+
+Lanterna. En lanterna är ett ljus som fartyg är skyldiga att föra under mörker och skymning. De viktigaste är babordslanterna (röd), styrbordslanterna (grön), topplanterna och akterlanterna (vita). Lots, bogserare, minsvepare, mudderverk o.dy. för fler lanternor.
+
+Lateralmärken utmärker utkanterna av en farled. Det finns babordsmärken och styrbordsmärken. Babordsmärkena är röda och har platt topp, styrbordsmärken är gröna och har spetsig topp.
+
+Latta. Tunn ribba av plast eller trä i storseglets akterkant avsedd att stabilisera akterliket (normalt har man flera lattor i storseglet).
+
+Levang. En styv, långskaftad borste för rengöring av däcket.
+
+Levang. Båge av metall som leder skot eller block.
+
+Lik. Kanten på ett segel, t ex förlik, akterlik och underlik.
+
+Lod. Anordning för att mäta vattendjup. Det finns både elektroniska ekolod och handlod med snöre.
+
+Logg. Anordning för att mäta en farkosts fart genom vattnet.
+
+Lova. Att gira så att fartygets förstäv närmar sig vinden. Motsatsen heter "falla av".
+
+Lovart. Det håll varifrån vinden blåser.
+
+Lovgirighet. Ett fartyg är lovgirigt om det för midskepps ror vill gå upp i vind.
+
+Långskepps. Saker som ligger med ena ändan föröver och andra ändan akteröver sägs ligga långskepps, eller längst långskeppslinjen. Motsatsen är tvärskepps.
+
+Låt gå. Att släppa någonting, t.ex. "låt ankaret gå".
+
+Lä. Det håll åt vilket vinden blåser. Man säger att man är i lä då man är skyddad från vinden bakom t.ex. en ö.
+
+Länsa. 1) Att segla med vinden in akterifrån.
+2) Att tömma båten på vatten.
+
+Lägga är ett annat vanligt ord.
+Lägga av en förtöjning är att lossa den och låta den gå.
+Lägga ombord (ombordläggning), kollision.
+Lägga till är att stoppa ett fartyg och förtöja.
+Lägga till spels är att lägga ett tåg i avhåll kring ett spel.
+Lägga fast, att stuva/placera ett föremål så att det ej kan röra sig eller komma loss.
+Lägga ut, motsatsen till lägga till.
+
+Lätta. 1) Att lyfta något, t.ex. lätta ankar.
+2) Att lätta på rodret innebär att minska rodervinkeln.
+3) Vädret sägs lätta då det klarnar efter regn eller dimma.
+
+Manillahampa. Är alls ingen hampa (mullbärsväxternas familj) utan fibrerna från bananväxten Musa textilis, som ger utmärkt tågvirke. Numera ersatt av konstfibrer.
+
+Manna reling. När besättningen ställer sig i givakt vid relingen. En hedersbetygelse som i Sverige är förbehållen kungligheter och besökande statschefer.
+
+Mantåg. Ett horisontelt tåg i midjehöjd att hålla sig i. Jämför med reling som är gjort av räcke och inte av tågvirke.
+
+Marvatten. En båt ligger i marvatten då den är fylld med vatten men ändå håller sig flytande.
+
+Midskepps. 1) Rodret sägs vara midskepps då det inte bildar någom vinkel mot fartyget.
+2) Midskepps är även platsen mitt i fartyget, lika långt från för som från akter.
+
+Missvisning. Vinkelskillnaden mellen jordens magnetfält och meridianer. Samma skillnad som mellan norr på kompassen och norr i sjökortet. Uppgift om missvisning finns alltid med i sjökortet. (se Deviation)
+
+Naja. att med garn eller smäckert tågvirke lägga fast ett föremål eller ett grövre tåg.
+
+Navigation. Konsten att kunna läsa sjökort, sjömärken, fyrar, kunna lägga ut en bra och säker rutt samt att kontinuerligt kunna bestämma sin position och kurs genom ytobservationer och/eller bestickförning.
+
+Nock. Yttersta änden av t.ex. en bom eller rå.
+
+Pillemasare. Gammal beteckning på båtsman som inte förtog sig arbetet.
+
+Plattläns. Att med vinden in rakt akterifrån segla med förseglet och storseglet ut åt var sitt håll.
+
+Pollare. Grov kubbe av stål eller betong avsedd att förtöja vid.
+
+Pulpit. Metallräcke i båtens för, avsed som stöd.
+
+Rappa ur. Att dra ut ett tåg eller vajer ur ett block.
+
+Reva. Att minska ett segels exponerade yta. Görs genom att beslå ett av seglets lik mot lämplig bom eller rå.
+
+Sacka. Att med aktern före förflytta en båt akteröver längst fartygssidan. Motsatsen är "hala upp".
+
+Schackel ser ut som en kättinglänk som kan öppnas och förslutas med en gängad tvärslå. Används till exempel för att skarva kättingar.
+
+Sejsa. Att med bensel, klämma eller med bara händerna hålla ihop två tåg så att de ej kan löpa.
+
+Sjökort. En karta över ett farbart vattendrag med speciell utmärkning av djup, grund, grynnor, vrak, sjömärken, fyrar, farleder o.dy.
+
+Sjömaning. Gemensamt namn på allt arbete med tåg och vajer.
+
+Sjömanskap är förmågan att på rätt sätt hantera en farkost till sjöss. Gott sjömanskap kräver bl.a. kunskap, omdömme, beslutsamhet och vilja, och kan endast förvärvas gemon praktisk erfarenhet till sjöss.
+
+Sjömärke. Sjömärken är fyrar, båkar, kummlar, stångmärken, tavlor, märken, bojar och prickar. Dessa är utsatta av sjöfartsverket för att utmärka farleder och grund.
+
+Skepp. Segelfartyg med tre eller fler master.
+
+Skivning. Skivar en tross gör man när man lägger upp den i en mycket prydlig spiral på däck.
+
+Skot är det tåg som löper från ett segels skothorn till ett spel med vilket man kan skota seglet.
+
+Skott. Väggarna i ett fartyg heter skott. Skott som sitter under vattenlinjen har som regel vattentäta dörrar för att hindra fartyget från att sjunka om det skulle ta in vatten.
+
+Slag. 1) Man lägger ett tåg i slag, inte öglor, runt en pollare, spel e.dy.
+2) När man gör ett slag med en segelbåt ändrar man kurs så att vinden kommer in från motsatt bog.
+
+Slagsida. Ett fartyg sägs ha slagsida då de på grund av lastförskjutning eller läkage lutar åt endera sidan.
+
+Slacka. Att ge efter på ett styvt tåg. Motsatsen till "hala hem".
+
+Slör. Att segla med vinden akter om tvärs.
+
+Spinnaker är ett segel vars övre hörn (fallhornet) medelst ett fall hissas upp i masttoppen, och vars två nedre hörn (skothorn) kan skotas med ett spel på vardera sidan. När man länsar så kan båda skothornen hånga fritt, men när man slörar så bör läsidan hållas ut med en spinnakerbom.
+
+Splits. Att splitsa ihop två rep innebär att tvinna in de båda repens kardeler i varandra till en nästan osynlig skarv. Änden på ett tåg kan också splitsas till ett öga. Även vajer kan splitsas.
+
+Styvhala. Att hala in på ett slackt tåg tills det blir sträckt.
+
+Stå. Innebär att omedelbart avbryta en verksamhet, om man halar ska man hålla an.
+Exempel: "Stå vid vinschen"
+
+Stå på. Att fortsätta med samma kurs och fart.
+
+Tagling. Att med garn linda ändan ev ett tåg så att det inte fransar sig kallas tagling. Förr i tiden använde man hästtagel till detta, därav namnet.
+
+Tajt. Uppsträck, styvhalat, spännt.
+
+Tågvirke är ett gemensamt namn på spunna linor, rep och trossar. Smäckert tågvirke benämns lina och grövre benämns tross. Riktigt klena linor kallas märling eller sjömansgarn. Tågvirke görs av fibrer som spinns till kardeler som sedan tvinnas till en tross. Av trossar kan man sedan slå en kabel.
+
+Vajer består av sex kardeler tvinnad ståltråd kring en sjunde s.k. kalv av oljat fiberämne. Vajer kan vara hård för stående rigg eller böjlig för att gå genom block. Antalet stållinor bestämmer hållfasthet och böjlighet.
+
+Vant stagar upp masten i sidled. På äldre segelfartyg var vanten även utformad som en repstege på vilken man kunde klättra upp i masten.
+
+Vantskruv används för att spänna vanten.
+
+Vantspridare ser ut som horisontala fenor på masten och används för att hålla vanten så långt ut från masten som möjligt. De fungerar på så sätt som en hävstång för vanten.
+
+Vakt. På fartyg är dygnet indelat i sex vakter om fyra timmar. Dessa är Hundvakten (00-04), Dagvakten (04-08), Förmiddagsvakten (08-12), Middagsvakten (12-16), Plattvakterna (1:a 16-18, 2:a 18-20) och Första vakten (20-24).
+
+Vaterbom är en från fartygssidan utfällbar bom till för att förtöja fallrepsbåtar vid.
+
+Vinda. Att ta hem på tåg eller kätting som är lagd kring ett spel.
+
+Örlogsfartyg. Fartyg och svävare som tillhör ett lands marina stridskrafter, som för det landets örlogsflagga eller gös, som står under befäl av utnämnda officerare och är bemannade, helt eller delvis, av militära sjömän. Alla örlogsfartyg är inte beväpnade, men de som har offensiva vapen benämns stridsfartyg.
+
+Överhalning. Häftig krängning hos ett fartyg orsakad av grov sjö, vind eller lastförskjutning.
+
+Överhandsväder råder då ett fartyg på grund av för kraftig vind inte längre kan föra segel eller manövrera som normalt.
