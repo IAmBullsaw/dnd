@@ -1,16 +1,6 @@
 {
     "words":[
         {
-            "word":"",
-            "description":"",
-            "category":"none"
-        },
-        {
-            "word":"",
-            "description":"",
-            "category":"none"
-        },
-        {
             "word":"Aframaxfartyg",
             "description":"Tankfartyg p\u00e5 upp till 120.000 ton d\u00f6dvikt, dimensionerade f\u00f6r att kunna anl\u00f6pa nordamerikanska atlanthamnar, med maximal last.",
             "category":"skeppstyp"
@@ -283,1917 +273,1917 @@
         {
             "word":"Frakttariff",
             "description":"Lista \u00f6ver de frakter ett linjerederi debiterar f\u00f6r olika varuslag p\u00e5 olika transportstr\u00e4ckor.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"Free",
             "description":"Alongside ship - s\u00e4ljaren l\u00e4mnar godset i skeppningshamnen, vid fartygets sida eller i l\u00e4ktare. k\u00f6paren st\u00e5r f\u00f6r alla kostnader n\u00e4r godset avl\u00e4mnats.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"Freight",
             "description":"Or carriage paid to - s\u00e4ljaren betalar kostnader och frakt f\u00f6r godset men risken \u00f6verg\u00e5r p\u00e5 k\u00f6paren n\u00e4r godset l\u00e4mnats till f\u00f6rste fraktf\u00f6raren.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"Fusion",
             "description":"Sammanslagning av tv\u00e5 eller flera rederier.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"F\u00f6r",
             "description":"Den \u00e4nda som \u00e4r l\u00e4ngst fram p\u00e5 fartyget.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"F\u00f6rt\u00f6ja",
             "description":"\"knyta fast\" fartyget vid kaj.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Gantrykran",
             "description":"Bockkran med horisontell utliggare under vilken finns k\u00f6rbart lyftarrangemang. kranen arbetar i tv\u00e5 plan och \u00e4r s\u00e4rskilt l\u00e4mpad d\u00e4r st\u00f6rre precision erfordras.",
-            "category":""
+            "category":"kajen"
         },
         {
             "word":"Gira",
             "description":"Sv\u00e4nga.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"GMDSS",
             "description":"Global maritime distress and safety system. internationellt system f\u00f6r n\u00f6dradiokommunikation via satellit och markv\u00e5g.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"GRT",
             "description":"Gross register ton. bruttoregisterton.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"Handysize",
             "description":"Bulkfartyg p\u00e5 20.000\u201350.000 ton d\u00f6dvikt.",
-            "category":""
+            "category":"skeppstyp"
         },
         {
             "word":"Hovercraft",
             "description":"Fartyg, som g\u00e5r fram strax ovanf\u00f6r vattenytan vilande p\u00e5 en luftkudde, som alstras av starka fl\u00e4ktar.",
-            "category":""
+            "category":"skeppstyp"
         },
         {
             "word":"HSC",
             "description":"(high speed craft) - en definition av h\u00f6ghastighetsfartyg antagen av imo, med fart och storlek som variabler.",
-            "category":""
+            "category":"skeppstyp"
         },
         {
             "word":"HSS",
             "description":"(highspeed sea service) - f\u00e4rjekoncept med stora katamaraner med kapacitet f\u00f6r 1.500 passagerare och 375 personbilar alternativt 50 lastbilar och 100 personbilar.",
-            "category":""
+            "category":"skeppstyp"
         },
         {
             "word":"Hundvakten",
             "description":"Har den som har vakt mellan kl. 00.01-04.00.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Hydrofoilb\u00e5t",
             "description":"B\u00e5t med b\u00e4rplan, vilket medf\u00f6r att n\u00e4stan hela skrovet reser sig \u00f6ver vattenytan vid h\u00f6g fart.",
-            "category":""
+            "category":"skeppstyp"
         },
         {
             "word":"Hytt",
             "description":"Rum d\u00e4r man bor.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Innocent-ownerf\u00f6rs\u00e4kring",
             "description":"F\u00f6rs\u00e4kring som skyddar fartygs\u00e4garen mot f\u00f6rsummelser fr\u00e5n bareboatbefraktarens sida i f\u00f6rs\u00e4kringsfr\u00e5gor. intermodal. samordning av transporterna av till exempelcontainers f\u00f6r ett flertal olika transportmedel som fartyg, bil, j\u00e4rnv\u00e4g etc.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"Joint",
             "description":"Service - samsegling oftast med gemensamma turlistor. var och en sk\u00f6ter sin del av trafiken men mycket i samarbete med de andra i gruppen ing\u00e5ende rederierna. kapitalintensiv. ettfartyg med f\u00f6rh\u00e5llandevis stora kapitalkostnader. kasko. redarens prim\u00e4ra f\u00f6rs\u00e4kring som t\u00e4cker fartyget.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"Kattrygg",
             "description":"Inneb\u00e4r att fartyget har mera tyngd i f\u00f6ren och aktern \u00e4n p\u00e5 mitten.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Kabell\u00e4ngd",
             "description":"185,2 meter (en 1/10:de dels nautisk mil). inte att f\u00f6rv\u00e4xlas med att l\u00e4gga en kabel.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Klarering.",
             "description":"Ombes\u00f6rjande av olika formaliteter och utbetalningar av hamnavgifter, tull etc i samband med att ett fartyg anl\u00f6per eller avg\u00e5r fr\u00e5n en hamn. klareringen sk\u00f6ts av klarerareanst\u00e4llda av rederiets ombud i hamnen.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"Klassificeringss\u00e4llskap",
             "description":"Oberoende organisation som kontrollerar fartygs s\u00e4kerhet och kvalitet mot s\u00e5v\u00e4l egna som nationella myndigheters regler.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"Klausul",
             "description":"Best\u00e4mmelse i kontrakt.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"Knop",
             "description":"M\u00e5tt p\u00e5 fartygets fart. en knop = en distansminut per timme, allts\u00e5: 1,85 km/tim.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Kombinationsfartyg",
             "description":"Fartyg som kan anv\u00e4ndas b\u00e5de som tank- och bulkfartyg.",
-            "category":""
+            "category":"skeppstyp"
         },
         {
             "word":"Kommission",
             "description":"M\u00e4klarens arvode \u2013 ofta 1,25 procent av bruttofrakten. vid k\u00f6p/f\u00f6rs\u00e4ljning ofta en procent av k\u00f6peskillingen.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"Kompass-sprit",
             "description":"V\u00e4tska i kompassen ej avsedd f\u00f6r att drickas.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Koj",
             "description":"S\u00e4ng.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Konferens",
             "description":"Samtliga linjerederier som trafikerar samma trad. inom konferensen regleras trafikutbud, frakter osv. konossement (bill of lading). sj\u00f6transportavtal som \u00e4r \u201doms\u00e4ttningsbart\u201d, dv. det \u00e4r en v\u00e4rdehandling som man kan s\u00e4lja lastpartiet med.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"Konsekutiva",
             "description":"Resor - ett best\u00e4mt antal enkelresor som i en f\u00f6ljd kan utf\u00f6ras enligt avtal med befraktare. konsortium. ekonomiskt och trafikm\u00e4ssigt samg\u00e5ende mellan rederier f\u00f6r att l\u00f6sa entransportuppgift.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"Kr\u00e4nga",
             "description":"Luta.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Lanterna",
             "description":"Utelampa.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"LASH",
             "description":"F\u00f6rkortning av lighter aboard ship. ett system d\u00e4r ett stort moderfartyg transporterar pr\u00e5mar, som kan lastas, transporteras och sj\u00f6s\u00e4ttas av moderfartyg.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"Lastkontrakt",
             "description":"(contract of affreightment) - redaren f\u00f6rbinder sig att transportera en best\u00e4md lastkvantitet mellan avtalade destinationer \u00f6ver en viss period. ofta stipuleras hur l\u00e5ngaintervallen skall vara mellan varje resa och st\u00f6rsta till\u00e5tna fartygsstorlek.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"LIBOR",
             "description":"London inter bank offered rate.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"Lift",
             "description":"On lift off (lolo) - lastning med hj\u00e4lp av kranar och annan lyftutrustning. containers placeras i s\u00e5dana fartyg under d\u00e4ck i ett vertikalt gejdersystem (skenor som h\u00e5ller l\u00e5dorna p\u00e5plats).",
-            "category":""
+            "category":"kaj"
         },
         {
             "word":"Liggedagar",
             "description":"Den tid befraktaren enligt fraktavtalet har r\u00e4tt att disponera b\u00e5ten f\u00f6r lastning och lossning.",
-            "category":""
+            "category":"kaj"
         },
         {
             "word":"Liner",
             "description":"Terms - de villkor p\u00e5 vilka linjesj\u00f6farten transporterar gods varvid rederiet st\u00e5r f\u00f6r alla lastnings- och lossningskostnader, fartygets hamnumg\u00e4lder osv.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"LNG",
             "description":"(liquified natural gas) - flytande naturgas som transporteras nedkyld till \u2013162\u00b0c.",
-            "category":""
+            "category":"br\u00e4nsle"
         },
         {
             "word":"LOF,",
             "description":"Lloyd\u2019s open form - standardiserat b\u00e4rgningskontrakt. den senaste versionen kallad lof-95 tar h\u00e4nsyn till best\u00e4mmelserna i international convention of salvage.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"LPG",
             "description":"(liquefied petroleum gas) - flytande petroleumgas som transporteras under tryck och/eller nedkyld. l\u00e4ktring. \u00f6verf\u00f6ring av last mellan tv\u00e5 fartyg till sj\u00f6ss.",
-            "category":""
+            "category":"br\u00e4nsle"
         },
         {
             "word":"L\u00e4nsa",
             "description":"T\u00f6mma ut n\u00e5got.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Maastrichtf\u00f6rdraget",
             "description":"F\u00f6rdrag om uppr\u00e4ttande av en ekonomisk och politisk union, europeiska unionen, mellan eg-l\u00e4nderna som tr\u00e4dde i kraft 1/11 1993.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"Manifest",
             "description":"Ett dokument inneh\u00e5llande en fullst\u00e4ndig lista \u00f6ver lasten i ett fartyg.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"MARPOL",
             "description":"International convention for the prevention of pollution from ships. imos konvention om utsl\u00e4ppsbegr\u00e4nsningar fr\u00e5n fartyg.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"Mellanstatlighet",
             "description":"Samarbete mellan stater d\u00e4r de enskilda nationerna beh\u00e5ller sin nationella s\u00e4rart.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"M/S.",
             "description":"Motor ship.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"M/V.",
             "description":"Motor vessel.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"M/T.",
             "description":"Motor tanker.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"M\u00e4ss",
             "description":"Matsal.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Navigera",
             "description":"Orientera till sj\u00f6ss.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"OBO-fartyg",
             "description":"(oil, bulk, ore). se kombinationsfartyg.",
-            "category":""
+            "category":"skeppstyp"
         },
         {
             "word":"Off",
             "description":"Hire - tid som tidsbefraktat fartyg \u00e4r ur drift p.g.a. att fartyget tillf\u00e4lligt inte \u00e4r i f\u00f6rstklassigt skick. under off hire utg\u00e5r ingen tidshyra (fraktbetalning). anledning till offhire kan t.ex. vara klassning, bottenm\u00e5lning, reparation etc.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"Operator",
             "description":"Den som f\u00f6r tillf\u00e4llet anv\u00e4nder fartyget (vilket inte beh\u00f6ver vara redaren eftersom denne kan hyra ut sitt fartyg).",
-            "category":""
+            "category":"roll"
         },
         {
             "word":"Outsider",
             "description":"Rederi som opererar utanf\u00f6r och i konkurrens med konferenserna genom att underbjuda konferensernas fraktsatser.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"Panamax",
             "description":"Fartyg som uppfyller minst ett av f\u00f6ljande kriterier, bredd 106 fot (30,5 m), l\u00e4ngd 965 fot (294,1 meter) eller djupg\u00e5ende 39,5 fot (12,04 meter). panamax \u00e4r ocks\u00e5 ett begrepp f\u00f6rbulkfartyg p\u00e5 50.000\u201380.000 ton dw. cirka 80.000 ton dw \u00e4r maximistorleken f\u00f6r att ett fullastat fartyg skall kunna passera panamakanalen, d\u00e4rav namnet \u201dpanmax\u201d.",
-            "category":""
+            "category":"skeppstyp"
         },
         {
             "word":"Partredare",
             "description":"Del\u00e4gare i ett fartyg, som \u00e4gs i en bolagsform som liknar kommanditbolagets. partredare kan vara en enskild person eller ett aktiebolag. inom sj\u00f6farten f\u00f6rekommer det attb\u00f6rsnoterade f\u00f6retag \u00e4r partredare. en av partredarna utses som huvudredare.",
-            "category":""
+            "category":"roll"
         },
         {
             "word":"Pax",
             "description":"F\u00f6rkortning av orden maximala antalet passagerare.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Pentry",
             "description":"D\u00e4rifr\u00e5n du h\u00e4mtar maten.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Personalintensiv",
             "description":"Fartyg med f\u00f6rh\u00e5llandevis h\u00f6ga personalkostnader.",
-            "category":""
+            "category":"skeppstyp"
         },
         {
             "word":"Pool",
             "description":"Samarbete under avtalade former mellan ett antal rederier. poolning. f\u00f6rdelning av lasten eller frakten efter en viss formel. inom konferenser f\u00f6rekommer pooler som \u00e4r avsedda attf\u00f6rhindra on\u00f6dig konkurrens. inom samseglingsgrupper o d har man ofta pooler f\u00f6r att de deltagande rederierna skall f\u00e5 en r\u00e4ttvisare utdelning av de gemensamma anstr\u00e4ngningarna.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"Poopen",
             "description":"Aktra f\u00f6rt\u00f6jningsd\u00e4cket.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Postpanamax",
             "description":"Beteckning f\u00f6r en ny generation containerfartyg, och numera \u00e4ven kryssningsfartyg, vars dimensioner \u00e4r f\u00f6r stora f\u00f6r att kunna passera genom panamakanalen.",
-            "category":""
+            "category":"skeppstyp"
         },
         {
             "word":"Pre-cooling",
             "description":"Nedkylning av lastrum till best\u00e4md temperatur under en viss period f\u00f6re lastning.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Produkttanker",
             "description":"Fartyg som transporterar raffinerade produkter.",
-            "category":""
+            "category":"skeppstyp"
         },
         {
             "word":"Protection",
             "description":"And indemnity, p & i eller pandi - f\u00f6rs\u00e4kring f\u00f6r rederiers ansvar gentemot tredje man.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"Protektionism",
             "description":"Statligt skydd under vilket den egna handelsflottan befrias fr\u00e5n vissa konkurrensmoment.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"Proviant",
             "description":"Maten ombord.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Pullmankoj",
             "description":"Koj (s\u00e4ng) som kan f\u00e4llas upp i v\u00e4ggen (skottet) n\u00e4r den inte anv\u00e4nds.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Pulp-temperature",
             "description":"Den temperatur som m\u00e4tes inne i en viss vara exempelvis en n\u00f6tkreaturskropp eller en frukt.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Redd",
             "description":"S\u00e4rskilt anvisat omr\u00e5de d\u00e4r fartyg kan ankra i anslutning till en hamn, flod, kanal eller liknande.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Reling-",
             "description":"R\u00e4cke som g\u00e5r runt hela fartyget.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Resekostnader",
             "description":"Kostnader som \u00e4r direkt relaterade till den aktuella resan, exempelvis bunker, hamnavgifter etc.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"Roll",
             "description":"On roll off (roro) - lastning och lossning genom att lasten k\u00f6res ombord via en eller flera ramper i fartygets \u00e4ndskepp eller sidor. de olika fartygsd\u00e4cken \u00e4r f\u00f6rbundna genom ramper.",
-            "category":""
+            "category":"kaj"
         },
         {
             "word":"Romf\u00f6rdraget",
             "description":"F\u00f6rdrag fr\u00e5n 1957 om uppr\u00e4ttande av europeiska ekonomiska gemenskapen eec, senare eg.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"SAR,",
             "description":"Search and rescue - organisation och operation vid sj\u00f6r\u00e4ddning.",
-            "category":""
+            "category":"\u00f6vrigt"
         },
         {
             "word":"SBT,",
             "description":"Segregated ballast tanks - tankar i tankfartyg som endast anv\u00e4nds f\u00f6r ballast.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Sextant",
             "description":"Gammalt navigationshj\u00e4lpmedel, har ingenting med sexiga tanter att g\u00f6ra.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Shelterdeck",
             "description":"D\u00e4ck, som ligger ovanf\u00f6r fartygets huvudd\u00e4ck och som inte ing\u00e5r i fartygets bruttotonnage. shelterdeck var ursprungligen avsett som ett skydd mot vind och sj\u00f6 och hade intesamma styrka som skrovet i \u00f6vrigt. med tiden har denna definition av finurliga konstrukt\u00f6rer urvattnats. ett fartyg med st\u00e4ngt shelterd\u00e4ck \u00e4r byggt s\u00e5 att man genom vissa luckarrangemang alternativt kan anv\u00e4nda det \u00f6vre eller undre d\u00e4cket som huvudd\u00e4ck. lastlinjem\u00e4rkets placering ber\u00e4knas fr\u00e5n huvudd\u00e4cket.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Sidport",
             "description":"Portliknande lucka i fartygets sida genom vilken lastning och lossning kan ske antingen genom ombordk\u00f6rning eller fr\u00e5n en kajtruck till en ombordtruck.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Singledecker",
             "description":"Enkeld\u00e4ckat fartyg. skeppsm\u00e4klare. frist\u00e5ende ombud som f\u00f6rmedlar last och/eller fartygsutrymme samt k\u00f6p och f\u00f6rs\u00e4ljning av fartyg.",
-            "category":""
+            "category":"skeppstyp"
         },
         {
             "word":"Skott",
             "description":"V\u00e4gg.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Skrov",
             "description":"Fartygets \"hud\".",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"SOLAS-konventionen",
             "description":"International convention for the safety of life at sea. imos regelverk avseende framf\u00f6rallt fartygs s\u00e4kra konstruktion och utrustning.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"Spant",
             "description":"Del av fartygets \"skelett\".",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Spotmarknad",
             "description":"Fraktmarknad d\u00e4r fartyg slutes f\u00f6r enstaka resor.",
-            "category":""
+            "category":"\u00f6vrigt"
         },
         {
             "word":"Spygatt",
             "description":"R\u00e4nnsten.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"SSS,",
             "description":"Short sea shipping - handelssj\u00f6fart mellan eu-l\u00e4nder.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"Standardbrygga",
             "description":"Taket till bryggan.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Styckegods",
             "description":"Gods som skeppas i mindre partier exempelvis l\u00e5dor, kartonger, s\u00e4ckar, balar etc. direkt i fartyg eller samlastas i containers eller p\u00e5 andra lastb\u00e4rare.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"STCW-konventionen",
             "description":"International convention on standards of training, certification and watchkeeping for seafarers. imos regelverk avseende utbildning och beh\u00f6righeter f\u00f6r sj\u00f6personal samtregler f\u00f6r vakth\u00e5llning p\u00e5 fartyg.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"Styrbord",
             "description":"H\u00f6ger.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Svinrygg-",
             "description":"Motsats till kattrygg, dvs mer tyngd i mitten.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Subsidiaritetsprincipen",
             "description":"Beslut inom eu skall tas p\u00e5 \u201dl\u00e4gsta effektiva niv\u00e5\u201d inom organisationen dvs. en fr\u00e5ga skall i f\u00f6rsta hand avg\u00f6ras p\u00e5 nationell niv\u00e5 om syftet inte b\u00e4ttre uppn\u00e5s p\u00e5eu-niv\u00e5.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"Suezmax",
             "description":"Tankfartyg p\u00e5 cirka 150.000 ton dw. cirka 150.000 ton dw \u00e4r maximistorleken f\u00f6r att ett fullastat fartyg skall kunna passera suezkanalen, d\u00e4rav namnet \u201dsuezmax\u201d.",
-            "category":""
+            "category":"skeppstyp"
         },
         {
             "word":"Sydv\u00e4st-",
             "description":"V\u00e4derstr\u00e4ck eller huvudbonad f\u00f6r d\u00e5ligt v\u00e4der.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"T/T",
             "description":"Turbine tanker.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Tainting",
             "description":"Skada p\u00e5 kyllast som v\u00e5llats av lukt fr\u00e5n andra laster. bland gods som l\u00e4tt skadas p\u00e5 detta s\u00e4tt kan n\u00e4mnas mejeriprodukter och frukt.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Third",
             "description":"Flag carrier (cross trader) - rederi som transporterar gods mellan utl\u00e4ndska hamnar.",
-            "category":""
+            "category":"skeppstyp"
         },
         {
             "word":"Tidsbefraktning",
             "description":"(timecharter) - redare hyr ut sitt fartyg komplett och bemannat f\u00f6r en betalning som utg\u00e5r med en viss summa per dag eller en viss summa per ton dw och m\u00e5nad. den som hyrfartyget betalar f\u00f6r bunker och hamnavgifter.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"Tonkilometer",
             "description":"Ett prestationsm\u00e5tt som inneb\u00e4r transport av ett ton en kilometer.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"TOVALOP",
             "description":"Tanker owners\u2019 voluntary agreement concerning liability for oil pollution. v\u00e4rldens tankfartygs frivilliga \u00f6verenskommelse betr\u00e4ffande ekonomisk gottg\u00f6relse vid oljeskador.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"Trampmarknad",
             "description":"Den delen av sj\u00f6fartsmarknaden d\u00e4r man hyr fartyg f\u00f6r enstaka resa. ett annat ord f\u00f6r trampmarknad \u00e4r spotmarket.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"Tross",
             "description":"Rep som man f\u00f6rt\u00f6jer fartyget med.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"T\u00e5g",
             "description":"Rep.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"ULCC.",
             "description":"\u201dultra large crude carrier\u201d - tankfartyg \u00f6ver 350.000 ton.",
-            "category":""
+            "category":"skeppstyp"
         },
         {
             "word":"Unitisering/Enhetslastning",
             "description":"Sammanf\u00f6ring av mindre kollin till st\u00f6rre lastenheter f\u00f6r att underl\u00e4tta lasthanteringen. s\u00e5dana st\u00f6rre lastenheter kan byggas upp p\u00e5 lastpallar, lastflak etc.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"Vederlag",
             "description":"Det du f\u00f6rtj\u00e4nar in n\u00e4r du \u00e4r ombord som g\u00f6r att du ocks\u00e5 f\u00e5r l\u00f6n n\u00e4r du \u00e4r hemma p\u00e5 ledighet.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Ventil",
             "description":"F\u00f6nster.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"VLCC",
             "description":"\u201dvery large crude carrier\u201d \u2013 tankfartyg \u00f6ver 200.000 ton.",
-            "category":""
+            "category":"skeppstyp"
         },
         {
             "word":"VTS",
             "description":"Vessel traffic system. system f\u00f6r \u00f6vervakning av sj\u00f6trafik.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"V\u00e4derd\u00e4ck",
             "description":"\u00d6ppet d\u00e4ck d\u00e4r last kan lastas.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Worldscale",
             "description":"(ws) - ett internationellt fraktindex-system f\u00f6r tankfartyg. n\u00e4r tankfartyg kontrakteras f\u00f6r en last uttrycks frakten n\u00e4stan alltid i procent av worldscaleindex.",
-            "category":""
+            "category":"administrativt"
         },
         {
             "word":"\u00d6ppet",
             "description":"Fartyg - ett fartyg d\u00e4r luck\u00f6ppningarna till lastrummen str\u00e4cker sig praktiskt taget fr\u00e5n fartygssida till fartygssida varvid n\u00e5gon horisontell f\u00f6rflyttning av lasten nere i lastrummenej beh\u00f6ver ske.",
-            "category":""
+            "category":"skeppstyp"
         },
         {
             "word":"Akterut",
             "description":"Anger befintlighet, n\u00e5got finns akterut.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Akter\u00f6ver",
             "description":"Anger riktning, man beger sig akter\u00f6ver.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Ang\u00f6ra",
             "description":"Att g\u00e5 in s\u00e5 pass n\u00e4ra mot land att man best\u00e4mma sin position. vid territorialvattengr\u00e4nsen finns s.k. ang\u00f6ringsbojar som markerar b\u00f6rjan p\u00e5 en farled.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Ankare",
             "description":"Ett f\u00f6rem\u00e5l vars syfte \u00e4r att f\u00e4llas/hivas \u00f6verbord f\u00f6r att sedan f\u00e4sta i sj\u00f6botten f\u00f6r att h\u00e5lla fast ett fartyg.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Anl\u00f6pa",
             "description":"Att komma fram till sin destination. t.ex. g\u00e5 in i (anl\u00f6pa) en hamn.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Ans\u00e4tta",
             "description":"Att med hj\u00e4lp av ans\u00e4ttningsskruvar eller taljor styva upp ett fartygs st\u00e5ende gods.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Avh\u00e5ll",
             "description":"N\u00e5gra \u00f6glor lagda runt en pollare eller ett spel f\u00f6r att minska belastningen vid firning.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Avrusta",
             "description":"Att avrigga ett fartyg samt vidtaga \u00e5tg\u00e4rder f\u00f6r att skydda/f\u00f6rr\u00e5dsst\u00e4lla materielen i land. segelb\u00e5tar och andra mindre fartyg avrustas i regel varje h\u00f6st.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Bardun",
             "description":"St\u00e5ende gods som st\u00f6ttar st\u00e5ngtopp till d\u00e4ck i akterlig riktning.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Barkass",
             "description":"Stor, tung b\u00e5t f\u00f6r transport av tyngre last. \u00e4r oftast avsedd att halas/firas i d\u00e4vertar p\u00e5 st\u00f6rre fartyg.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Barlast",
             "description":"Tungt material, \u00e4ven vatten eller br\u00e4nsle, som placeras i botten under vattenlinjen f\u00f6r att \u00f6ka ett fartygs stabilitet.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Bedarra",
             "description":"D\u00e5 h\u00e5rd vind eller storm avtar i styrka.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Bef\u00e4lhavare",
             "description":"Chefen p\u00e5 ett handelsfartyg, (se fartygschef).",
-            "category":""
+            "category":"roll"
         },
         {
             "word":"Beknip",
             "description":"Ett t\u00e5g eller en knop \u00e4r i beknip d\u00e5 det fastkl\u00e4mts s\u00e5 att det ej utan vidare kan lossas.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Bel\u00e4gga",
             "description":"Att fastg\u00f6ra ett t\u00e5g eller en \u00e4nda s\u00e5 att det l\u00e4tt kan lossas, men ej kan komma loss av sig sj\u00e4lvt.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Bensel",
             "description":"Att med garn naja ihop tv\u00e5 t\u00e5g s\u00e5 att de ej kan l\u00f6pa.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Besl\u00e5",
             "description":"Att medelst tr\u00e4nsling h\u00e5lla ihop och fastg\u00f6ra ett b\u00e4rgat segel till bom, mast eller r\u00e5.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Bestick",
             "description":"Hj\u00e4lpmedel vid navigering, t.ex. passare, transport\u00f6r och linjal.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Bestickf\u00f6ring",
             "description":"Inneb\u00e4r att man kontinuerligt fastst\u00e4ller sin position med hj\u00e4lp av ytobservationer och ber\u00e4knar ny/fortsatt kurs, samt f\u00f6r in denna i sj\u00f6kortet.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Bidevind",
             "description":"\u00c4r n\u00e4r man seglar med vinden f\u00f6r om tv\u00e4rs, kallas \u00e4ven str\u00e4ckbog.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Bleke",
             "description":"Vindstilla, stiltje.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Bordl\u00e4ggning",
             "description":"\u00c4r den yta som skiljer insidan av b\u00e5ten fr\u00e5n vattnet p\u00e5 utsidan. tillsammans med de balkar och spant som b\u00e4r upp den bildar det skrovet. ej att f\u00f6rv\u00e4xla med ombordl\u00e4ggning (se l\u00e4gga ombord).",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Br\u00e4nning",
             "description":"Uppkommer d\u00e5 en v\u00e5g st\u00f6ter p\u00e5 ett hinder och slutar sin bana i en vit kaskad av skum. en tydlig varningssignal som tyder p\u00e5 grunt vatten.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"B\u00e5t",
             "description":"Se fartyg.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"B\u00e4nka",
             "description":"Att i sj\u00f6kortet m\u00e4ta distansen till en best\u00e4md plats.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"B\u00e4ra",
             "description":"Av. att hindra en b\u00e5t fr\u00e5n att st\u00f6ta mot eller hugga mot en kaj eller dylikt.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"B\u00e4ring",
             "description":"\u00c4r vinkeln mellan norr och syftlinjen till ett f\u00f6rem\u00e5l.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Dejsa",
             "description":"Att under segling g\u00f6ra fart akter\u00f6ver.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Deviation",
             "description":"\u00c4r det vinkelfel som uppst\u00e5r d\u00e5 ledande f\u00f6rem\u00e5l p\u00e5 b\u00e5ten p\u00e5verkar kompasen. detta vinkelfel \u00e4r olika p\u00e5 olika kurser och kompenseras antingen av kompensationsmagneter i kompassen eller med en deviationstabell d\u00e4r vinkelfelet f\u00f6r varje kurs finns inf\u00f6rd. (se missvisning).",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Dikt",
             "description":"S\u00e5 mycket det g\u00e5r. t.ex. dikt bidevind eller rodret styrbord dikt.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Dirk",
             "description":"Kallas det t\u00e5g som h\u00e5ller upp bommen d\u00e5 seglet inte \u00e4r hissat.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Dragg",
             "description":"Ett slags l\u00e4ttankare med fyra flyn som \u00e4r inf\u00e4llbara mot l\u00e4ggen f\u00f6r att underl\u00e4tta stuvning.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Dragga",
             "description":"N\u00e4r ett fartygs ankare sl\u00e4par l\u00e4ngst sj\u00f6botten. kan \u00e4ven betyda att med en dragg f\u00f6rs\u00f6ka f\u00e5nga ett f\u00f6rem\u00e5l p\u00e5 botten.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Dykdalb",
             "description":"En kon av stockar nedslagna i sj\u00f6botten. anv\u00e4nds f\u00f6r att f\u00e4sta f\u00f6rt\u00f6jningsgods vid d\u00e5 man som regel f\u00f6rt\u00f6jer mellan dykdalben och kajen. namnet h\u00e4rstammar fr\u00e5n dess konstrukt\u00f6r, hertigen av alba (duc d'albe).",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Dyvika",
             "description":"En propp till l\u00e4nsh\u00e5l f\u00f6r avtappning av vatten i b\u00e5t. proppen anv\u00e4nds till att hindra att vatten tr\u00e4nger in i b\u00e5ten.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"D\u00e4vert",
             "description":"En hissanordning f\u00f6r att p\u00e5 st\u00f6rre fartyg hala/fira livb\u00e5tar eller barkasser.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Enslinje",
             "description":"En linje som l\u00f6per genom tv\u00e5 v\u00e4l synliga f\u00f6rem\u00e5l och kan anv\u00e4ndas f\u00f6r navigering. ofta s\u00e4tts sj\u00f6m\u00e4rken ut s\u00e5 att de bildar en enslinje som sammanfaller med en farled.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Ensm\u00e4rke",
             "description":"Ett v\u00e4l synligt f\u00f6rem\u00e5l eller sj\u00f6m\u00e4rke. tv\u00e5 ensm\u00e4rken bildar en enslinje.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Fall",
             "description":"T\u00e5g med vilket segel hissas.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Falla",
             "description":"Av s\u00e4gs ett fartyg g\u00f6ra n\u00e4r dess f\u00f6rst\u00e4v avl\u00e4gsnar sig fr\u00e5n vinden. motsatsen \u00e4r lova.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Fallgirighet",
             "description":"Ett segelfartygs ben\u00e4genhet att vid midskepps ror falla av. ett fallgirigt fartyg m\u00e5ste st\u00f6ttas med rodret mot vinden f\u00f6r att h\u00e5lla rak kurs.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Fallrep",
             "description":"Eller fallrepstrappa. en trappa som f\u00e4lls ner l\u00e4ngst ett fartygs styrbordssida och g\u00f6r s\u00e5 att folk kan komma till och fr\u00e5n fartyget i sm\u00e5 b\u00e5tar, t.ex. barkasser.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Famn",
             "description":"Maritimt l\u00e4ngdm\u00e5tt, sex fot eller 1,829 meter. har flitigt anv\u00e4nts f\u00f6r bl.a. havsdjup men ers\u00e4tts alltmer av det metriska systemet.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Fartyg",
             "description":"Varje farkost som kan anv\u00e4ndas till transport p\u00e5 vattnet och med minst 12 m l\u00e4ngd och 4 m bredd. mindre fartyg kallas b\u00e5t. undantag \u00e4r undervattensfarkoster vilka kallas ub\u00e5tar oavsett storlek, samt farkoster som saknar skrov, t.ex. flottar och sv\u00e4vare.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Fartygschef",
             "description":"Chef p\u00e5 \u00f6rlogsfartyg, (se bef\u00e4lhavare).",
-            "category":""
+            "category":"roll"
         },
         {
             "word":"Fendert",
             "description":"Eller fender. buffert av mjukt material f\u00f6r att ta upp st\u00f6tar vid t.ex. till\u00e4ggning, (se frihult).",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Fira",
             "description":"Att kontrolerat ge efter p\u00e5 ett t\u00e5g s\u00e5 att firningen n\u00e4r som helst kan stoppas (i motsats till \"l\u00e5ta g\u00e5\" d\u00e5 ett f\u00f6rem\u00e5l till\u00e5ts falla fritt). firning kan ske med eller utan avh\u00e5ll fira \u00e4r motsattsen till hala.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Flaggspel",
             "description":"Flaggst\u00e5ngen l\u00e4ngs akterut d\u00e4r nationalitetsflaggan f\u00f6rs.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Fribord",
             "description":"\u00c4r fartygssidans minsta h\u00f6jd \u00f6ver vattenytan.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Frihult",
             "description":"Timmerbitar eller bild\u00e4ck som h\u00e4ngs ut \u00f6ver fartygssidan f\u00f6r att skydda denna. till skillnad fr\u00e5n fendertar kan en frihult vara permanent.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Frim\u00e4rke",
             "description":"M\u00e4rken som bildar en enslinje som g\u00e5r fri fr\u00e5n grund. har inget med normal postg\u00e5ng att g\u00f6ra",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Fr\u00e4lsarkrans",
             "description":"Livboj av cirkul\u00e4r typ.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Fyr",
             "description":"En fyr \u00e4r ett sj\u00f6m\u00e4rke som nattetid v\u00e4gleder sj\u00f6farten medelst ljussignaler. de \u00e4r ofta st\u00e5l- och/eller betong-konstruktioner som \u00e4r placerade vid strandkanten eller p\u00e5 grunt vatten.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Fyrkarakt\u00e4r",
             "description":"F\u00f6r att underl\u00e4tta identifieringen av fyrar s\u00e5 finns det fastst\u00e4lda fyrkarakt\u00e4rer som \u00e5terfinns i sj\u00f6kortet. dessa betecknas med f\u00f6rkortningar av deras engelska namn, t.ex. \"q(3)\",\"iso 6s\", \"fl(2) 6s\", \"mo(-\u00b7-) 10s\".",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"F\u00f6rf\u00e5nga",
             "description":"Att avl\u00f6sa vakter och poster.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"F\u00f6rut",
             "description":"Anger befintlighet. exempel: \"ankaret \u00e4r placerat f\u00f6rut\".",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"F\u00f6r\u00f6ver",
             "description":"Anger riktning. exempel: \"dra den d\u00e4r tampen f\u00f6r\u00f6ver\".",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Gaj",
             "description":"Kallas det t\u00e5g eller k\u00e4tting som st\u00f6ttar bom eller d\u00e4vert. p\u00e5 segelb\u00e5tar kallas det gaj som st\u00f6ttar storbommen f\u00f6r dirk, denna lossas d\u00e5 storseglet \u00e4r hissat.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Gardj\u00e4rn",
             "description":"\u00c4r en avb\u00e4rare av kraftiga st\u00e5lr\u00f6r som \u00e4r till f\u00f6r att skydda ett fartygs bordl\u00e4ggning n\u00e4r det ligger vid kaj. det finns oftast ganska l\u00e5ngt akterut.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Gippa",
             "description":"Vid l\u00e4nsning gira s\u00e5 att bomseglet sl\u00e5r \u00f6ver och vinden kommer in fr\u00e5n andra sidan. vid kraftig vind b\u00f6r man ta hem p\u00e5 storskotet (och ducka) innan man gippar d\u00e5 kraften p\u00e5 bommen kan bli mycket stor.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Glas",
             "description":"P\u00e5 fartyg \u00e4r varje vakt \u00e4r indelad i \u00e5tta glas om tretio minuter. \"fyra glas\" kan allts\u00e5 betyda klockan 2, 6, 10, 14, 18 eller 22 beroende p\u00e5 vilken vakt det \u00e4r. f\u00f6rr i tiden slog man alltid tiden i glas p\u00e5 skepsklockan. se \u00e4ven vakt.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Grogg",
             "description":"Ursprungligen dagsransonen 24 cl rom per brittisk flottist, utsp\u00e4dd med fyra g\u00e5nger s\u00e5 mycket vatten. uppkallad efter amiral edward \"old grog\" vernon, vars \u00f6knamn syftade p\u00e5 hans sl\u00e4ngkappa i det grova halvsidentyget grogram.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"G\u00e5",
             "description":"Upp i vind g\u00f6r man n\u00e4r man styr r\u00e4tt emot vinden.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"G\u00f6s",
             "description":"Liten flagga som f\u00f6rs av \u00f6rlogsfartyg i hamn p\u00e5 g\u00f6sstake i f\u00f6ren.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Hala",
             "description":"Att medelst t\u00e5g eller talja hissa upp ett f\u00f6rem\u00e5l.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Halkip",
             "description":"\u00d6ppning eller beslag vid relingen i f\u00f6r och akter. f\u00f6rt\u00f6jnings- och akterlinor b\u00f6r l\u00f6pa genom dessa f\u00f6r att skyddas mot n\u00f6tning.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Hals",
             "description":"T\u00e5g med vilket ett r\u00e5segels fr\u00e4mre nedre horn h\u00e5lls fast och man\u00f6vreras. ett fartyg seglar f\u00f6r babords halsar n\u00e4r det har vinden in fr\u00e5n babord. f\u00f6r fulla halsar inneb\u00e4r att man i bidevind sl\u00e4pper ut halsarna s\u00e5 mycket det g\u00e5r f\u00f6r att kunna g\u00e5 upp h\u00f6gt i vind.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Halvvind",
             "description":"Inneb\u00e4r att man har vinden tv\u00e4rs in om styrbord eller babord.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Hem",
             "description":"Att ta/hala hem p\u00e5 ett n\u00e5got inneb\u00e4r att man drar det till sig. t.ex. \"ta hem ankaret\" inneb\u00e4r att det dras upp fr\u00e5n sj\u00f6botten och in p\u00e5 sin plats i b\u00e5ten. \"ta hem det l\u00f6sa\" \u00e4r samma som att styvhala. \"ta hem p\u00e5 storen\" betyder att drar in bommen med storskotet.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Hissa",
             "description":"En flagga hissas p\u00e5 morgonen och halas (ner) p\u00e5 kv\u00e4llen.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Hiva",
             "description":"Anv\u00e4nds i betydelsen kasta n\u00e5got \u00f6verbord t.ex. ett lod eller ett ankare.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Horn",
             "description":"Ett h\u00f6rn p\u00e5 ett segel, t.ex. skothorn.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Hugga",
             "description":"1) att hugga en hake \u00e4r att f\u00e4sta den i n\u00e5gonting t.ex. en ring eller bult.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"2)",
             "description":"En b\u00e5t hugger n\u00e4r den upprepade g\u00e5nger st\u00f6ter emot sj\u00f6botten, kajen eller en annan b\u00e5t.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"H\u00e5lla",
             "description":"\u00c4r ett vanligt ord i m\u00e5nga sammanhang.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"J\u00e4rngenua",
             "description":"\u00d6knamn p\u00e5 en i en segelb\u00e5t monterad motor.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Kantra",
             "description":"1) en b\u00e5t kantrar d\u00e5 den pressas omkull av vind, sj\u00f6 eller f\u00f6rskjuten last.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Kardinalm\u00e4rken",
             "description":"Utm\u00e4rker sj\u00f6fartshinder. det finns nord-, syd-, v\u00e4st- och ostm\u00e4rken, de st\u00e5r norr, s\u00f6der, v\u00e4ster och \u00f6ster om hindret. kardinalm\u00e4rkena \u00e4r m\u00f6nstrade i svart och gult. se \u00e4ven lateralm\u00e4rken.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Kick",
             "description":"En kick \u00e4r ett spel med block och talja som anv\u00e4nds f\u00f6r att sp\u00e4nna storseglet genom att dra bommen ner\u00e5t l\u00e4ngst masten.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Klart",
             "description":"Skepp inneb\u00e4r att ett \u00f6rlogsfartyg \u00e4r klart f\u00f6r omedelbar strid.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Klys",
             "description":"Eller klyse. ett h\u00e5l genom ett fartygs bordl\u00e4ggning f\u00f6r genomf\u00f6ring av t\u00e5g eller k\u00e4tting till f\u00f6rt\u00f6jning eller ankring.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Knap",
             "description":"Beslag p\u00e5 vilket man l\u00e4gger fast skot och fall.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Kompass",
             "description":"En magnetisk kompass best\u00e5r av en magnetisk kompassros, fritt upph\u00e4ngd i en kupol inneh\u00e5llande rostskyddande v\u00e4tska som t.ex. sprit. det finns \u00e4ven gyrostabiliseradde kompasser.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Kompasshus",
             "description":"Kallas det h\u00f6lje som kompassen \u00e4r upph\u00e4ngd i. ofta \u00e4r kompassen upph\u00e4ng i kardaner som g\u00f6r att den ligger horisontellt \u00e4ven om b\u00e5ten lutar.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Kryssa",
             "description":"Att segla med omv\u00e4xlande styrbords och babords bidevind.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"K\u00e4ra",
             "description":"Att h\u00e5lla n\u00e4ra t.ex. en boj, ett sj\u00f6m\u00e4rke eller en udde.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"K\u00f6lhala",
             "description":"N\u00e4r man k\u00f6lhalar ett fartyg s\u00e5 sp\u00e4nner man en lina under k\u00f6len och drar den f\u00f6rut och akterut f\u00f6r att avl\u00e4gsna skaldjur och annat som under \u00e5rens lopp har fastnat under vattenlinjen.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"K\u00f6lhalning",
             "description":"\u00c4r ocks\u00e5 en gammal och grym bestraffningsmetod. den g\u00e5r till s\u00e5 att ett rep str\u00e4cks under k\u00f6len, varefter den k\u00f6lhalade dras ned under vattnet, under k\u00f6len och upp igen p\u00e5 andra sidan. oftast s\u00e5 slutade det med att den k\u00f6lhalade hamnade mellan repet och k\u00f6len och kl\u00e4mdes till d\u00f6ds.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Lateralm\u00e4rken",
             "description":"Utm\u00e4rker utkanterna av en farled. det finns babordsm\u00e4rken och styrbordsm\u00e4rken. babordsm\u00e4rkena \u00e4r r\u00f6da och har platt topp, styrbordsm\u00e4rken \u00e4r gr\u00f6na och har spetsig topp.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Latta",
             "description":"Tunn ribba av plast eller tr\u00e4 i storseglets akterkant avsedd att stabilisera akterliket (normalt har man flera lattor i storseglet).",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Levang",
             "description":"En styv, l\u00e5ngskaftad borste f\u00f6r reng\u00f6ring av d\u00e4cket.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Lik",
             "description":"Kanten p\u00e5 ett segel, t ex f\u00f6rlik, akterlik och underlik.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Lod",
             "description":"Anordning f\u00f6r att m\u00e4ta vattendjup. det finns b\u00e5de elektroniska ekolod och handlod med sn\u00f6re.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Logg",
             "description":"Anordning f\u00f6r att m\u00e4ta en farkosts fart genom vattnet.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Lova",
             "description":"Att gira s\u00e5 att fartygets f\u00f6rst\u00e4v n\u00e4rmar sig vinden. motsatsen heter \"falla av\".",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Lovart",
             "description":"Det h\u00e5ll varifr\u00e5n vinden bl\u00e5ser.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Lovgirighet",
             "description":"Ett fartyg \u00e4r lovgirigt om det f\u00f6r midskepps ror vill g\u00e5 upp i vind.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"L\u00e5ngskepps",
             "description":"Saker som ligger med ena \u00e4ndan f\u00f6r\u00f6ver och andra \u00e4ndan akter\u00f6ver s\u00e4gs ligga l\u00e5ngskepps, eller l\u00e4ngst l\u00e5ngskeppslinjen. motsatsen \u00e4r tv\u00e4rskepps.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"L\u00e5t",
             "description":"G\u00e5. att sl\u00e4ppa n\u00e5gonting, t.ex. \"l\u00e5t ankaret g\u00e5\".",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"L\u00e4",
             "description":"Det h\u00e5ll \u00e5t vilket vinden bl\u00e5ser. man s\u00e4ger att man \u00e4r i l\u00e4 d\u00e5 man \u00e4r skyddad fr\u00e5n vinden bakom t.ex. en \u00f6.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"L\u00e4gga",
             "description":"\u00c4r ett annat vanligt ord.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"L\u00e4tta",
             "description":"1) att lyfta n\u00e5got, t.ex. l\u00e4tta ankar.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"3)",
             "description":"V\u00e4dret s\u00e4gs l\u00e4tta d\u00e5 det klarnar efter regn eller dimma.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Manillahampa",
             "description":"\u00c4r alls ingen hampa (mullb\u00e4rsv\u00e4xternas familj) utan fibrerna fr\u00e5n bananv\u00e4xten musa textilis, som ger utm\u00e4rkt t\u00e5gvirke. numera ersatt av konstfibrer.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Manna",
             "description":"Reling. n\u00e4r bes\u00e4ttningen st\u00e4ller sig i givakt vid relingen. en hedersbetygelse som i sverige \u00e4r f\u00f6rbeh\u00e5llen kungligheter och bes\u00f6kande statschefer.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Mant\u00e5g",
             "description":"Ett horisontelt t\u00e5g i midjeh\u00f6jd att h\u00e5lla sig i. j\u00e4mf\u00f6r med reling som \u00e4r gjort av r\u00e4cke och inte av t\u00e5gvirke.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Marvatten",
             "description":"En b\u00e5t ligger i marvatten d\u00e5 den \u00e4r fylld med vatten men \u00e4nd\u00e5 h\u00e5ller sig flytande.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Midskepps",
             "description":"1) rodret s\u00e4gs vara midskepps d\u00e5 det inte bildar n\u00e5gom vinkel mot fartyget.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Missvisning",
             "description":"Vinkelskillnaden mellen jordens magnetf\u00e4lt och meridianer. samma skillnad som mellan norr p\u00e5 kompassen och norr i sj\u00f6kortet. uppgift om missvisning finns alltid med i sj\u00f6kortet. (se deviation)",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Naja",
             "description":"Att med garn eller sm\u00e4ckert t\u00e5gvirke l\u00e4gga fast ett f\u00f6rem\u00e5l eller ett gr\u00f6vre t\u00e5g.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Navigation",
             "description":"Konsten att kunna l\u00e4sa sj\u00f6kort, sj\u00f6m\u00e4rken, fyrar, kunna l\u00e4gga ut en bra och s\u00e4ker rutt samt att kontinuerligt kunna best\u00e4mma sin position och kurs genom ytobservationer och/eller bestickf\u00f6rning.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Nock",
             "description":"Yttersta \u00e4nden av t.ex. en bom eller r\u00e5.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Pillemasare",
             "description":"Gammal beteckning p\u00e5 b\u00e5tsman som inte f\u00f6rtog sig arbetet.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Plattl\u00e4ns",
             "description":"Att med vinden in rakt akterifr\u00e5n segla med f\u00f6rseglet och storseglet ut \u00e5t var sitt h\u00e5ll.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Pollare",
             "description":"Grov kubbe av st\u00e5l eller betong avsedd att f\u00f6rt\u00f6ja vid.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Pulpit",
             "description":"Metallr\u00e4cke i b\u00e5tens f\u00f6r, avsed som st\u00f6d.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Rappa",
             "description":"Ur. att dra ut ett t\u00e5g eller vajer ur ett block.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Reva",
             "description":"Att minska ett segels exponerade yta. g\u00f6rs genom att besl\u00e5 ett av seglets lik mot l\u00e4mplig bom eller r\u00e5.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Sacka",
             "description":"Att med aktern f\u00f6re f\u00f6rflytta en b\u00e5t akter\u00f6ver l\u00e4ngst fartygssidan. motsatsen \u00e4r \"hala upp\".",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Schackel",
             "description":"Ser ut som en k\u00e4ttingl\u00e4nk som kan \u00f6ppnas och f\u00f6rslutas med en g\u00e4ngad tv\u00e4rsl\u00e5. anv\u00e4nds till exempel f\u00f6r att skarva k\u00e4ttingar.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Sejsa",
             "description":"Att med bensel, kl\u00e4mma eller med bara h\u00e4nderna h\u00e5lla ihop tv\u00e5 t\u00e5g s\u00e5 att de ej kan l\u00f6pa.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Sj\u00f6kort",
             "description":"En karta \u00f6ver ett farbart vattendrag med speciell utm\u00e4rkning av djup, grund, grynnor, vrak, sj\u00f6m\u00e4rken, fyrar, farleder o.dy.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Sj\u00f6maning",
             "description":"Gemensamt namn p\u00e5 allt arbete med t\u00e5g och vajer.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Sj\u00f6manskap",
             "description":"\u00c4r f\u00f6rm\u00e5gan att p\u00e5 r\u00e4tt s\u00e4tt hantera en farkost till sj\u00f6ss. gott sj\u00f6manskap kr\u00e4ver bl.a. kunskap, omd\u00f6mme, beslutsamhet och vilja, och kan endast f\u00f6rv\u00e4rvas gemon praktisk erfarenhet till sj\u00f6ss.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Sj\u00f6m\u00e4rke",
             "description":"Sj\u00f6m\u00e4rken \u00e4r fyrar, b\u00e5kar, kummlar, st\u00e5ngm\u00e4rken, tavlor, m\u00e4rken, bojar och prickar. dessa \u00e4r utsatta av sj\u00f6fartsverket f\u00f6r att utm\u00e4rka farleder och grund.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Skepp",
             "description":"Segelfartyg med tre eller fler master.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Skivning",
             "description":"Skivar en tross g\u00f6r man n\u00e4r man l\u00e4gger upp den i en mycket prydlig spiral p\u00e5 d\u00e4ck.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Skot",
             "description":"\u00c4r det t\u00e5g som l\u00f6per fr\u00e5n ett segels skothorn till ett spel med vilket man kan skota seglet.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Slag",
             "description":"1) man l\u00e4gger ett t\u00e5g i slag, inte \u00f6glor, runt en pollare, spel e.dy.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Slagsida",
             "description":"Ett fartyg s\u00e4gs ha slagsida d\u00e5 de p\u00e5 grund av lastf\u00f6rskjutning eller l\u00e4kage lutar \u00e5t endera sidan.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Slacka",
             "description":"Att ge efter p\u00e5 ett styvt t\u00e5g. motsatsen till \"hala hem\".",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Sl\u00f6r",
             "description":"Att segla med vinden akter om tv\u00e4rs.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Spinnaker",
             "description":"\u00c4r ett segel vars \u00f6vre h\u00f6rn (fallhornet) medelst ett fall hissas upp i masttoppen, och vars tv\u00e5 nedre h\u00f6rn (skothorn) kan skotas med ett spel p\u00e5 vardera sidan. n\u00e4r man l\u00e4nsar s\u00e5 kan b\u00e5da skothornen h\u00e5nga fritt, men n\u00e4r man sl\u00f6rar s\u00e5 b\u00f6r l\u00e4sidan h\u00e5llas ut med en spinnakerbom.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Splits",
             "description":"Att splitsa ihop tv\u00e5 rep inneb\u00e4r att tvinna in de b\u00e5da repens kardeler i varandra till en n\u00e4stan osynlig skarv. \u00e4nden p\u00e5 ett t\u00e5g kan ocks\u00e5 splitsas till ett \u00f6ga. \u00e4ven vajer kan splitsas.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Styvhala",
             "description":"Att hala in p\u00e5 ett slackt t\u00e5g tills det blir str\u00e4ckt.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"St\u00e5",
             "description":"Inneb\u00e4r att omedelbart avbryta en verksamhet, om man halar ska man h\u00e5lla an.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Tagling",
             "description":"Att med garn linda \u00e4ndan ev ett t\u00e5g s\u00e5 att det inte fransar sig kallas tagling. f\u00f6rr i tiden anv\u00e4nde man h\u00e4sttagel till detta, d\u00e4rav namnet.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Tajt",
             "description":"Uppstr\u00e4ck, styvhalat, sp\u00e4nnt.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"T\u00e5gvirke",
             "description":"\u00c4r ett gemensamt namn p\u00e5 spunna linor, rep och trossar. sm\u00e4ckert t\u00e5gvirke ben\u00e4mns lina och gr\u00f6vre ben\u00e4mns tross. riktigt klena linor kallas m\u00e4rling eller sj\u00f6mansgarn. t\u00e5gvirke g\u00f6rs av fibrer som spinns till kardeler som sedan tvinnas till en tross. av trossar kan man sedan sl\u00e5 en kabel.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Vajer",
             "description":"Best\u00e5r av sex kardeler tvinnad st\u00e5ltr\u00e5d kring en sjunde s.k. kalv av oljat fiber\u00e4mne. vajer kan vara h\u00e5rd f\u00f6r st\u00e5ende rigg eller b\u00f6jlig f\u00f6r att g\u00e5 genom block. antalet st\u00e5llinor best\u00e4mmer h\u00e5llfasthet och b\u00f6jlighet.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Vant",
             "description":"Stagar upp masten i sidled. p\u00e5 \u00e4ldre segelfartyg var vanten \u00e4ven utformad som en repstege p\u00e5 vilken man kunde kl\u00e4ttra upp i masten.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Vantskruv",
             "description":"Anv\u00e4nds f\u00f6r att sp\u00e4nna vanten.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Vantspridare",
             "description":"Ser ut som horisontala fenor p\u00e5 masten och anv\u00e4nds f\u00f6r att h\u00e5lla vanten s\u00e5 l\u00e5ngt ut fr\u00e5n masten som m\u00f6jligt. de fungerar p\u00e5 s\u00e5 s\u00e4tt som en h\u00e4vst\u00e5ng f\u00f6r vanten.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Vakt",
             "description":"P\u00e5 fartyg \u00e4r dygnet indelat i sex vakter om fyra timmar. dessa \u00e4r hundvakten (00-04), dagvakten (04-08), f\u00f6rmiddagsvakten (08-12), middagsvakten (12-16), plattvakterna (1:a 16-18, 2:a 18-20) och f\u00f6rsta vakten (20-24).",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Vaterbom",
             "description":"\u00c4r en fr\u00e5n fartygssidan utf\u00e4llbar bom till f\u00f6r att f\u00f6rt\u00f6ja fallrepsb\u00e5tar vid.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Vinda",
             "description":"Att ta hem p\u00e5 t\u00e5g eller k\u00e4tting som \u00e4r lagd kring ett spel.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"\u00d6rlogsfartyg",
             "description":"Fartyg och sv\u00e4vare som tillh\u00f6r ett lands marina stridskrafter, som f\u00f6r det landets \u00f6rlogsflagga eller g\u00f6s, som st\u00e5r under bef\u00e4l av utn\u00e4mnda officerare och \u00e4r bemannade, helt eller delvis, av milit\u00e4ra sj\u00f6m\u00e4n. alla \u00f6rlogsfartyg \u00e4r inte bev\u00e4pnade, men de som har offensiva vapen ben\u00e4mns stridsfartyg.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"\u00d6verhalning",
             "description":"H\u00e4ftig kr\u00e4ngning hos ett fartyg orsakad av grov sj\u00f6, vind eller lastf\u00f6rskjutning.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"\u00d6verhandsv\u00e4der",
             "description":"R\u00e5der d\u00e5 ett fartyg p\u00e5 grund av f\u00f6r kraftig vind inte l\u00e4ngre kan f\u00f6ra segel eller man\u00f6vrera som normalt.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Akterst\u00e4v",
             "description":"En del som f\u00f6rl\u00e4nger k\u00f6len bak\u00e5t och upp\u00e5t. h\u00e4r sitter ofta rodret fast.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Balkv\u00e4gare",
             "description":"Grov timmerstock som d\u00e4cksbalkarna ligger p\u00e5.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"D\u00e4cksbalk",
             "description":"Grova stockar som h\u00e5ller upp d\u00e4cket. de ligger ofta tv\u00e4rs fartyget.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"F\u00f6rst\u00e4v",
             "description":"K\u00f6lens f\u00f6rl\u00e4ngning fram\u00e5t och upp\u00e5t.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Galjon",
             "description":"Eller gallion: utbyggnad p\u00e5 f\u00f6rst\u00e4v",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Galjonsfigur",
             "description":"Eller gallionsfigur: tr\u00e4figur som sitter fast l\u00e4ngst ut p\u00e5 galjonen. ofta var det bilder p\u00e5 djur eller en vacker flicka.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Garnering",
             "description":"Tr\u00e4plankorna som t\u00e4cker insidan av skeppet.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Kn\u00e4",
             "description":"\u00c4r ett kn\u00e4format st\u00f6d f\u00f6r till exempel d\u00e4cksbalkar.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Kabel",
             "description":"Tross eller gr\u00f6vre rep som ankaret sitter i.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Kabyss",
             "description":"Eller byssa: fartygets k\u00f6k.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Kanonport",
             "description":"H\u00e5l i skrovsidan som kanoner kan stickas ut genom.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Kattsp\u00e5r",
             "description":"En slags bottenstock innanf\u00f6r garneringen.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"K\u00f6l",
             "description":"Den del som sitter l\u00e4ngst ned p\u00e5 fartygets botten s\u00e5 att det ligger r\u00e4tt i vattnet och inte v\u00e4lter.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Lavett",
             "description":"Tr\u00e4st\u00e4llning som kanoner ligger p\u00e5.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Mast",
             "description":"H\u00e4r sitter skeppets segel fast.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Motorfartyg",
             "description":"Fartyg som drivs fram\u00e5t med motor. f\u00f6rkortas ibland med m/s d\u00e4r m betyder motor och s betyder ship som betyder skepp p\u00e5 engelska.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Reling",
             "description":"Den uppstickande kanten p\u00e5 den yttersta d\u00e4cksplankan.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Rigg",
             "description":"Ett segelfartygs master, r\u00e5r och segel.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Ro",
             "description":"Att ro betyder att f\u00f6ra fram en b\u00e5t med \u00e5ror.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Roder",
             "description":"Med rodret styrs b\u00e5ten. rodret \u00e4r en fenliknande planka som sitter fast i akterst\u00e4ven.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Rorkult",
             "description":"Pinne som sitter fast i rodret och fungerar som ett handtag n\u00e4r b\u00e5ten styrs.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"R\u00e5",
             "description":"Stor tv\u00e4rg\u00e5ende bom som de stora fyrkantiga r\u00e5seglen sitter fastknutna p\u00e5.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"R\u00e5segel",
             "description":"Stort fyrkantigt segel som sitter fast p\u00e5 ett r\u00e5.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Segelfartyg",
             "description":"Stort fartyg som drivs med segel. det har oftast tv\u00e5 eller flera master. ibland f\u00f6rkortas det med s/y d\u00e4r s betyder sailing som betyder seglande p\u00e5 engelska och y betyder yacht som betydet mellanstor segelb\u00e5t p\u00e5 engelska.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Segel",
             "description":"Ett tygstycke som hissas upp i eller knyts fast p\u00e5 master f\u00f6r att f\u00e5nga vinden s\u00e5 att fartyget g\u00e5r fram\u00e5t. ett segel kan ha m\u00e5nga olika former men \u00e4r ofta tre-eller fyrkantigt.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Sj\u00f6man",
             "description":"En person som arbetar p\u00e5 fartyg. idag kan det b\u00e5de vara en kille eller en tjej. historiskt var det oftast en man.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Tunna",
             "description":"Ett f\u00f6rvaringsk\u00e4rl av tr\u00e4.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Vinsch",
             "description":"En apparat som hj\u00e4lper till n\u00e4r rep eller k\u00e4ttingar skall dras \u00e5t. till exempel om ankaret skall plockas upp fr\u00e5n bottnen kan en vinsch anv\u00e4ndas som hj\u00e4lp att f\u00e5 upp det.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"\u00c5ra",
             "description":"En l\u00e5ng smal spade av tr\u00e4 som anv\u00e4nds f\u00f6r att ro en b\u00e5t framm\u00e5t.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"I",
             "description":"B\u00e5tlivet finns det en massa b\u00e5ttermer och sj\u00f6termer som anv\u00e4nds, men som kan vara sv\u00e5ra att f\u00f6rst\u00e5! i v\u00e5r ordlista hittar du f\u00f6rklaringar p\u00e5 de vanligaste orden!",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Akterhack",
             "description":"Fack i aktern.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Avdrift",
             "description":"Str\u00f6m eller vind orsakar en f\u00f6rskjutning i sidled.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Bes\u00e4ttning",
             "description":"Tj\u00e4nstg\u00f6rande personer p\u00e5 b\u00e5ten.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Bimini",
             "description":"Ett solskydd \u00f6ver b\u00e5tens sittbrunn",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Block",
             "description":"En trissa som man drar skot och fall igenom.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Bom",
             "description":"En st\u00e5ng, fastmonterad i masten, som sp\u00e4nner ut seglets undre del.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Clamcleat",
             "description":"Beslag f\u00f6r att l\u00e5sa tamp.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Dinge",
             "description":"- jolle",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Distans",
             "description":"Se sj\u00f6mil.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Distansminut",
             "description":"En nautisk mil (1852 m) motsvarar en knop/timme.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Driva",
             "description":"Att okontrollerat f\u00f6ras i en riktning som best\u00e4ms av r\u00e5dande str\u00f6m, v\u00e5gor och vind.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Dykdalb/diktalb",
             "description":"Anordning f\u00f6r att f\u00f6rt\u00f6ja eller styra undan fartyg.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Eka",
             "description":"- en flatbottnad allmogeb\u00e5t.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Ekolod",
             "description":"Ett instrument som m\u00e4ter av vattnet under b\u00e5ten f\u00f6r att exempelvis m\u00e4ta djup eller hitta fisk.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Fender/fendert",
             "description":"En plastdetalj som h\u00e4ngs p\u00e5 b\u00e5tens utsida f\u00f6r att skydda mot andra b\u00e5tar samt brygga.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Flybridge",
             "description":"Styrplats ovanf\u00f6r b\u00e5tens ruff.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Fock",
             "description":"Ett mindre f\u00f6rsegel som f\u00f6rs f\u00f6r om masten och som anv\u00e4nds i h\u00e5rdare vind eller n\u00e4r man kryssar.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"F\u00f6rhala",
             "description":"Att flytta en b\u00e5t utan hj\u00e4lp av motor.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"F\u00f6rpik",
             "description":"Ett utrymme l\u00e4ngst fram i b\u00e5ten.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"F\u00f6rsegel",
             "description":"Segel f\u00e4st vid f\u00f6rstaget.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"F\u00f6rstag",
             "description":"Vajer som stagar segelb\u00e5tens mast.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Gal\u00e4r",
             "description":"- en typ av fartyg som drevs fram\u00e5t av \u00e5ror.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Gast",
             "description":"En bes\u00e4ttningsmedlem ombord p\u00e5 en b\u00e5t.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Gennacker",
             "description":"Ett f\u00f6rsegel, som \u00e4r en korsning mellan genua och spinnaker, som anv\u00e4nds i l\u00e4tt- och medelvind.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Genua/genuafock",
             "description":"Ett st\u00f6rre f\u00f6rsegel som str\u00e4cker sig akter om masten.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Gps",
             "description":"Elektronisk navigator som antingen \u00e4r fast monterad i b\u00e5ten eller portabel.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"H\u00e4stkraft",
             "description":"- m\u00e5ttenhet f\u00f6r b\u00e5tens/motorns effekt.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Jolle",
             "description":"En mindre, \u00f6ppen b\u00e5t. en jolle kan ocks\u00e5 vara en sl\u00e4pjolle till en b\u00e5t.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Julle",
             "description":"- en klinkbyggd b\u00e5ttyp med en bred tv\u00e4r akter.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Kanot",
             "description":"- syftar p\u00e5 mindre, smala vattenfarkoster som drivs fram\u00e5t med hj\u00e4lp av motor, segel eller paddel.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Karbinhake",
             "description":"En metallring med fj\u00e4drande st\u00e4ngningsarm/sp\u00e4rr.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Kapell",
             "description":"Ett skydd f\u00f6r sittbrunnen eller segel.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Ketch",
             "description":"- en skuta med stormast och en mindre mesanmast eller tv\u00e5mastad segelb\u00e5t.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Kogg",
             "description":"- en skeppstyp med l\u00e5ng historia.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Kontrakurs",
             "description":"Kurs i motsatt riktning.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Krabb",
             "description":"Sj\u00f6 \u2013 t\u00e4ta v\u00e5gor.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Krus",
             "description":"Sm\u00e5 v\u00e5gor.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Kurs",
             "description":"B\u00e5tens f\u00e4rdriktning, vilket m\u00e4ts i grader.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Kutter",
             "description":"- en segelb\u00e5t med tv\u00e5 f\u00f6rmaster eller ett enmastat segelfartyg.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"K\u00f6lsvin",
             "description":"En balk som \u00e4r inv\u00e4ndigt f\u00e4st ovanp\u00e5 b\u00e5tens k\u00f6l.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Livboj",
             "description":"- en flytande kastring som anv\u00e4nds vid livr\u00e4ddning.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Loggbok",
             "description":"En skeppsdagbok.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"L\u00e4ns",
             "description":"N\u00e4r en segelb\u00e5t seglar med vinden",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Mesanmast",
             "description":"Den mast som \u00e4r placerad l\u00e4ngst akter\u00f6ver p\u00e5 en b\u00e5t med tv\u00e5 eller flera master",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Mojna",
             "description":"Vind som avtar",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Position",
             "description":"B\u00e5ten har vid varje tidpunkt en given position p\u00e5 jordklotet, vilket vanligen \u00e4r angiven med latitud och longitud.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Prick",
             "description":"Sj\u00f6m\u00e4rken som visar grund samt farleder.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Pr\u00e5m",
             "description":"- syftar p\u00e5 ett lastfartyg som vanligtvis bogseras av ett annat fartyg.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Pushpit",
             "description":"Relingsr\u00e4cke i aktern p\u00e5 b\u00e5ten.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Putt-ifr\u00e5n-p\u00e5se",
             "description":"Se fender.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"P\u00e5lstek",
             "description":"En knop som ger en fast \u00f6gla.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Rank",
             "description":"\u00c4r en b\u00e5t som \u00e4r ostadig/vinglig i sidled.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Ruff",
             "description":"Utrymme i b\u00e5ten som anv\u00e4nds f\u00f6r bl a matlagning, s\u00f6mn och umg\u00e4nge.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"R\u00e4ddningsv\u00e4st",
             "description":"Flytv\u00e4st med ut\u00f6kad flytkraft i kragen, vilket g\u00f6r s\u00e5 att en medvetsl\u00f6s person \u00e4r r\u00e4ttv\u00e4nd i vattnet.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Seglarv\u00e4st",
             "description":"Flytv\u00e4st utan krage.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Sittbrunn",
             "description":"Sittutrymme som inte \u00e4r under d\u00e4ck.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Sj\u00f6kortsplotter",
             "description":"Elektroniskt navigeringsinstrument som inneh\u00e5lla sj\u00f6kort.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Sj\u00f6mil",
             "description":"Avst\u00e5nd till sj\u00f6ss (1 sj\u00f6mil = 1852 meter).",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Skota",
             "description":"Dra i tampen f\u00f6r att best\u00e4mma seglets riktning.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Skylight",
             "description":"D\u00e4cklucka med ljusinsl\u00e4pp.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Sk\u00e4dda/sk\u00e4ddor",
             "description":"Se trimplan.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Sk\u00f6ra",
             "description":"Om segel trasas s\u00f6nder.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Sl\u00e5",
             "description":"V\u00e4nda en segelb\u00e5t genom vinden.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Slup",
             "description":"- en segelb\u00e5t med en mast.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Sl\u00e4cka",
             "description":"F\u00f6rsiktig lossa p\u00e5 exempelvis ett skot",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Sl\u00e4ppa",
             "description":"Att l\u00e4gga loss en tamp.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Smult",
             "description":"Lugnt vatten.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Spinnacker",
             "description":"Stort ballongsegel som hissas framf\u00f6r f\u00f6rstaget.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Splits/splejs",
             "description":"Sammanfl\u00e4tning av tamp eller vajer f\u00f6r att skapa en \u00f6gla eller skarva.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Spring",
             "description":"F\u00f6rt\u00f6jning snett akterut eller f\u00f6rut.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Stag",
             "description":"Linor eller vajrar som st\u00f6ttar en mast i l\u00e4ngsled.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Stickkoj",
             "description":"Mindre s\u00e4ngplats p\u00e5 b\u00e5ten.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Storsegel",
             "description":"Seglet som sitter mastens akterkant (baksida).",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Stuva",
             "description":"Packa saker ombord.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"St\u00e4v",
             "description":"- b\u00e5tens f\u00f6r- eller akter\u00e4nde.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Svaja/svajf\u00f6rt\u00f6jning",
             "description":"F\u00f6rt\u00f6jning vid ankare eller boj utan kontakt med land.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"S\u00e4tta",
             "description":"Segel \u2013 att hissa ett segel.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Ta",
             "description":"Hem \u2013 dra in.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Tajta",
             "description":"Sp\u00e4nna lina.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Talja",
             "description":"- flera block.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Tamp",
             "description":"\u00c4ndan av en lina eller rep.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Trimplan",
             "description":"- anv\u00e4nds f\u00f6r kontrollera och justera b\u00e5tens g\u00e5ng i vattnet.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Vhf",
             "description":"(very high frequency) \u2013 vhf \u00e4r ett radiokommunikationssystem mellan fartyg och mellan fartyg och kustradio- eller andra landstationer.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Vhf-radio",
             "description":"Kommunikationsinstrument f\u00f6r att kommunicera \u00f6ver vhf.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"V\u00e4ja",
             "description":"Att \u00e4ndra kurs f\u00f6r att undvika kollision.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"Walkaround",
             "description":"Motorb\u00e5t med fri passage runt b\u00e5ten och styrpulpet i mitten (l\u00e4s mer om walkaroundb\u00e5t).",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"\u00c4sping",
             "description":"- en historisk b\u00e5ttyp.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"\u00d6ga",
             "description":"\u00d6gla p\u00e5 tamp eller vajer",
-            "category":""
+            "category":"grundl\u00e4ggande"
         },
         {
             "word":"\u00d6skar",
             "description":"Ett kar som anv\u00e4nds f\u00f6r att \u00f6sa vatten ur b\u00e5ten.",
-            "category":""
+            "category":"grundl\u00e4ggande"
         }
     ],
     "categories":[
@@ -2205,7 +2195,10 @@
         "grundl\u00e4ggande",
         "\u00f6vrigt",
         "administrativt",
-        "flaggning"
+        "flaggning",
+        "kajen",
+        "kaj",
+        "br\u00e4nsle"
     ],
-    "word_count":439
+    "word_count":437
 }
