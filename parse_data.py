@@ -2,7 +2,7 @@ import json
 
 
 def all_paths() -> str:
-    for path in ['ord_till_sjöss_data.txt']:
+    for path in ['ord_till_sjöss_data.txt', 'sjötermer_data.txt', 'torbjörn_data.txt', 'lär_dig_mer_om_skeppsord_data.txt']:
         yield path
 
 
@@ -30,7 +30,7 @@ def add_to_db(db, data):
                 break
         if add:
             db['categories'].append(new_category)
-    print('Added %d new words' % added)
+    print('Added %d new words to db' % added)
     return db
 
 
@@ -57,12 +57,36 @@ def parse_ord_till_sjoss(data):
     return d
 
 
+def parse_sjotermer(data):
+    d = {'words': [], 'categories': []}
+    for line in data:
+        if line and len(line) > 1:
+            words = line.split()
+            word = ''.join(words[:1]).capitalize().rstrip('.')
+            if 'Exempel' in word:
+                continue
+            description = ' '.join(words[1:])
+            description = description.lstrip(' ')
+            description = description.capitalize()
+            category = ''
+            d['words'].append({'word': word, 'description': description, 'category': category})
+            if category not in d['categories']:
+                d['categories'].append(category)
+    return d
+
+
 if __name__ == '__main__':
     for path in all_paths():
+        print('Parsing %s' % path)
         with open(path, 'r', encoding="utf8") as f:
             data = f.read().split('\n')
         if path == 'ord_till_sjöss_data.txt':
             json_data = parse_ord_till_sjoss(data)
+        elif path == 'sjötermer_data.txt':
+            json_data = parse_sjotermer(data)
+        else:
+            continue
         db = get_db()
         db = add_to_db(db, json_data)
-        save_db(db)
+        print(db)
+        # save_db(db)
