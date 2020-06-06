@@ -30,6 +30,10 @@ def add_to_db(db, data):
                 break
         if add:
             db['categories'].append(new_category)
+    if 'word_count' in db.keys():
+        db['word_count'] += added
+    else:
+        db['word_count'] = added
     print('Added %d new words to db' % added)
     return db
 
@@ -91,7 +95,6 @@ def parse_skeppsord(data):
     return d
 
 
-
 def parse_battermer(data):
     d = {'words': [], 'categories': []}
     for line in data:
@@ -108,8 +111,31 @@ def parse_battermer(data):
     return d
 
 
+def categorify(db):
+    previous_category = ""
+    for word in db['words']:
+        if word['category'] != '':
+            continue
+        print(word['word'])
+        print(word['description'])
+
+        category = input('Category: ')
+        if 'q' == category:
+            break
+        if '' == category:
+            category = previous_category
+            print('chose %s' % category)
+        category.capitalize()
+        category.rstrip()
+        word['category'] = category
+        if category not in db['categories']:
+            db['categories'].append(category)
+        previous_category = category
+    return db
+
+
 if __name__ == '__main__':
-    for path in all_paths():
+    """for path in all_paths():
         print('Parsing %s' % path)
         with open(path, 'r', encoding="utf8") as f:
             data = f.read().split('\n')
@@ -125,4 +151,6 @@ if __name__ == '__main__':
             continue
         db = get_db()
         db = add_to_db(db, json_data)
-        save_db(db)
+        save_db(db)"""
+    db = categorify(db)
+    save_db(db)
