@@ -112,7 +112,15 @@ def parse_battermer(data):
 
 
 def categorify(db):
+    categories = db['categories']
+    print("categories:", categories)
     previous_category = ""
+
+    counter = 0
+    for word in db['words']:
+        if word['category'] != '':
+            counter += 1
+    print('%d/%s (%d percent)' % (counter, db['word_count'], (counter/db['word_count'])*100))
     for word in db['words']:
         if word['category'] != '':
             continue
@@ -125,6 +133,13 @@ def categorify(db):
         if '' == category:
             category = previous_category
             print('chose %s' % category)
+        if len(category) == 1:
+            try:
+                num = int(category)
+            except:
+                break
+            category = categories[num]
+            print('chose %s' % category)
         category.capitalize()
         category.rstrip()
         word['category'] = category
@@ -135,7 +150,8 @@ def categorify(db):
 
 
 if __name__ == '__main__':
-    """for path in all_paths():
+    """
+    for path in all_paths():
         print('Parsing %s' % path)
         with open(path, 'r', encoding="utf8") as f:
             data = f.read().split('\n')
@@ -152,5 +168,6 @@ if __name__ == '__main__':
         db = get_db()
         db = add_to_db(db, json_data)
         save_db(db)"""
+    db = get_db()
     db = categorify(db)
     save_db(db)
