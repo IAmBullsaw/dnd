@@ -1,0 +1,347 @@
+Aframaxfartyg - Tankfartyg på upp till 120.000 ton dödvikt, dimensionerade för att kunna anlöpa nordamerikanska atlanthamnar, med maximal last.
+
+Afra - American Freight Rate Association.
+
+Agent - Företrädare i en hamn för till exempel ett linjerederi.
+
+Akter - den ända som är längst bak på fartyget.
+
+Andrahandsmarknad - Köp- och försäljningsmarknad för begagnade fartyg.
+
+Avlastare - Exportörer, lastägare, avskeppare, befraktare.
+
+Avskrivning - Det räkenskapsmässiga avdrag, som görs i ett bolags bokslut för att kompensera slitage och åldrande på företagets fartyg, hus, verktyg, maskiner etc.
+
+Babord - vänster.
+
+Backen - finns framför väderdäcket, längst förut.
+
+Bareboat-charter - Kallas även skeppslega. Redaren hyr ut fartyget utan manskap ofta under en lång period. Den som hyr fartyget betalar driftsutgifterna medan bareboathyran betalas tillredaren med en fast summa varje månad.
+
+Befraktare - Många gånger en lastägare eller den som hyr fartyget. Befraktare är också yrkesbeteckningen på rederitjänsteman på mäkleri, som sysslar med att göra affärer på fraktmarknaden.
+
+Bekvämlighetsflagg - (Flag of Convenience). Land som enligt ITF (Internationella Transportarbetarefederationen) tillåter registrering av utländska fartyg i obegränsad utsträckning och somunderlåter att utöva säkerhetsmässig och social kontroll över nationens handelsflotta.
+
+Bilateral överenskommelse - Avtal mellan två staters regeringar.
+
+BNI - Bruttonationalinkomst. BNP plus faktorinkomster (löner, kapital- och företagarinkomster) från utlandet minus faktorinkomster till utlandet.
+
+BNP - Bruttonationalprodukt. Det samlade värdet av varor och tjänster som produceras i ett land under ett år.
+
+Bortfraktare. Den redare som utför transporten.
+
+Bryggan - därifrån fartyget styrs.
+
+Bottenslag - i hårt väder när en våg slår mot fartygets botten.
+
+Brägång - trottoaren på sidorna.
+
+Bulk - Oemballerad fartygslast, till exempel kol, malm och spannmål.
+
+Bunker - det som fartyget körs med (fartygets bensin).
+
+Byssa - köket ombord.
+
+Cabotage - Rätten att utföra inrikes transporter inom annat land.
+
+CAP - Condition Assessment Programme. Ett kvalitetsklassningsprogram för tankfartyg.
+
+Capesize - Bulkfartyg i storleksklassen 100.000–150.000 ton dödvikt.
+
+C & F - (Cost and Freight). Säljaren betalar kostnader och frakt för godset till destinationsorten. Köparen står för risken från utskeppningshamnen.
+
+Certeparti - Fraktavtal, som innehåller alla de klausuler, som fastställer villkoren för transporter.
+
+C.i.f. - Handelsterm som i sig innesluter skyldighet för säljaren att anskaffa fartyg eller boka utrymme för överförandet av godset till av köparen angiven hamn, ombesörja att lasten kommerombord i fartyget, försäkra lasten tillfredsställande och betala frakten antingen i förskott eller genom kreditering i fakturan. Vem som skall betala lastnings- resp lossningskostnader är en förhandlingsfråga, vars resultat redovisas i certepartiet.
+
+COFR - Certificate of Financial Responsibility. Certifikat som krävs vid anlöp i amerikanska hamnar och som visar att rederiet har godkända garantier om finansiella resurser vid oljespill.
+
+Cross Trader - Se Third flag carrier.
+
+Dagskostnad - Kvarstående kostnader efter avdrag för kapital- och resekostnader. Dagskostnader avser bl.a. teknisk drift, bemanning, administrativa kostnader samt de försäkringskostnader somkan hänföras till fartyget.
+
+Delivered at frontier - Säljaren står för transport av godset till ”tullgränsen” i det land som nämns i köpeavtalet.
+
+Delivered duty paid - Säljaren står för transporten till köparens fabrik eller driftställe.
+
+Demurrage - Kompensation, som skall betalas av befraktaren, avlastaren eller mottagaren per dygn eller pro rata för extra liggetid i laste- och/eller lossehamn utöver vad som stipuleras ifraktkontrakt.
+
+Deplacement - Det finns två olika deplacement: lätt och fullständigt. Lätt deplacement (light displacement tonnage, LDT) eller bara deplacement är fartygets egenvikt uttryckt i metriska ton,det vill säga viken av allt stål i fartygets konstruktion. Är mest intressant när ett fartyg ska sälja som skrot. Det fullständiga deplacementet (displacement tonnage) uttryckt i metriska ton är fartygets vikt plus vikten av förnödenheter ombord, last och vikten av besättning och eventuella passagere. Det fullständiga deplacemetet avser de facto det vatten som trängs undan av fartyget. Används oftast för att beskriva storlek på örlogsfartyg.
+
+Dispatch - Den gottgörelse, som rederiet betalar till befraktare, avlastare eller mottagare per dygn eller pro rata för insparad tid i laste- och/eller lossehamn jämfört med vad somstipuleras i fraktkontrakt. Distansminut (nautisk mil). 1.852 meter.
+
+Dockning - Torrsättning av fartyg vid varv för översyn och reparation. Driftskostnad. Alla kostnader som är att hänföra direkt till fartygets drift, t.ex. kostnader för besättning, tekniskdrift, försäkringar, underhåll och reparation.
+
+Dräktighet (tonnage) - Ett fartygs dräktighet är ett sortlöst jämförelsetal för fartygs storlek beräknat enligt 1969 års internationella skeppsmätningskonvention. Bruttodräktigheten angerfartygets storlek och bygger på fartygets totala inneslutna rymd medan nettodräktigheten är beroende av rymden av fartygets lastrum, antal passagerare samt fartygets djupgående i relation till mallat djup. Bruttotonnaget betecknas gt (gross tonnage). även beteckningen UR (Universal Rules) används för att visa att fartyget är mätt efter det senaste regelverket.
+
+Durk - golvet ombord.
+
+Däck - våning.
+
+Dödvikt (deadweight) - Vikten av den last, bunker och lös utrustning, som fartyget förmår bära. Dödfrakt (dead freight). Ersättning till bortfraktaren för skillnad mellan avtalad och verkligfraktvolym.
+
+ECDIS - Electronic Chart Display System. System för vektoriserade, digitala sjökort. Enhetsakten. Fördrag från 1986 som bland annat ändrade beslutsformerna så att beslut rörande EUs inremarknad skulle tas med kvalificerad majoritet i stället för enhälligt.
+
+Enkelresa - Enstaka resa som ett trampfartyg företar med last.
+
+Enpunktsförtöjning (single buoy mooring) - Boj där tankfartyg kan ligga på svaj och lossa eller lasta sin last via pipeline, som är sammankopplad med bojen.
+
+Europeiska rådet - EUs högsta organ.
+
+Evergreen-basis - Ett avtal som avses förlängas efter den fastställda perioden, varvid hyran omräknas.
+
+Ex Ship - Säljaren står för kostnader och risker tills fartyget anlöper destinationshamnen.
+
+Ex Quay - Säljaren står för kostnader och risker till kajen i destinationshamnen.
+
+Ex Works - Godset hämtas hos säljaren. Köparen står för alla kostnader och risker för transporten.
+
+Fastship - Snabbgående, halvplanande enskrovsfartyg. Fat. Enhet för handel med olja. Ett fat motsvarar ca 159 liter och det går ca 7,1 fat på ett ton olja.i.o. - Free in and out betyder attlasten lämnas och tages i resp ur fartyget utan någon kostnad för rederiet. Eventuell trimning eller stuvning i såväl laste- som lossehamn betalas däremot av fartyget.
+
+F.i.o.t. - Lasten lämnas av avlastaren/befraktaren fritt ombord i fartyget och tages i lossehamnen fritt ur fartyget men under fiot betalar befraktaren all erforderlig trimning.
+
+F.i.o.s. - Lasten fritt in och ut och stuvad.
+
+Flaggdiskriminering - Nationell lag, som förbehåller rätten till sjötransport åt hela eller delar av den egna handelsflottan.
+
+Flaskpost - gammalt kommunikationssätt numera ersatt av internet.
+
+F.o.b. - Free on board betyder att lasten lämnas fritt ombord i fartyget men innesluter icke kostnaden för eventuell trimning eller stuvning.
+
+FOC - Se bekvämlighetsflagg.
+
+Fraktrate - Den överenskomna frakten räknat per ton last per kubikmeter eller per ton d w och månad.
+
+Frakttariff - Lista över de frakter ett linjerederi debiterar för olika varuslag på olika transportsträckor.
+
+Free alongside ship - Säljaren lämnar godset i skeppningshamnen, vid fartygets sida eller i läktare. Köparen står för alla kostnader när godset avlämnats.
+
+Free carrier (named point) - Ett alternativ till Fob. Säljaren lämnar godset till fraktföraren vid den i kontraktet angivna orten. Risken överförs från säljare till köpare på den nämndaplatsen.
+
+Freight or carriage paid to - Säljaren betalar kostnader och frakt för godset men risken övergår på köparen när godset lämnats till förste fraktföraren.
+
+Freight or carriage including insurance paid to - Samma som ”Freight or carriage paid to” men säljaren betalar även försäkringen.
+
+Fusion - Sammanslagning av två eller flera rederier.
+
+För - den ända som är längst fram på fartyget.
+
+Förtöja - "knyta fast" fartyget vid kaj.
+
+Gantrykran - Bockkran med horisontell utliggare under vilken finns körbart lyftarrangemang. Kranen arbetar i två plan och är särskilt lämpad där större precision erfordras.
+
+Gira - svänga.
+
+GMDSS - Global Maritime Distress and Safety System. Internationellt system för nödradiokommunikation via satellit och markvåg.
+
+GRT - Gross Register Ton. Bruttoregisterton.
+
+Handysize - Bulkfartyg på 20.000–50.000 ton dödvikt.
+
+Hovercraft - Fartyg, som går fram strax ovanför vattenytan vilande på en luftkudde, som alstras av starka fläktar.
+
+HSC (High Speed Craft) - En definition av höghastighetsfartyg antagen av IMO, med fart och storlek som variabler.
+
+HSS (Highspeed Sea Service) - Färjekoncept med stora katamaraner med kapacitet för 1.500 passagerare och 375 personbilar alternativt 50 lastbilar och 100 personbilar.
+
+Hundvakten - har den som har vakt mellan kl. 00.01-04.00.
+
+Hydrofoilbåt - Båt med bärplan, vilket medför att nästan hela skrovet reser sig över vattenytan vid hög fart.
+
+Hytt - rum där man bor.
+
+Innocent-ownerförsäkring - Försäkring som skyddar fartygsägaren mot försummelser från bareboatbefraktarens sida i försäkringsfrågor. Intermodal. Samordning av transporterna av till exempelcontainers för ett flertal olika transportmedel som fartyg, bil, järnväg etc.
+
+Joint Service - Samsegling oftast med gemensamma turlistor. Var och en sköter sin del av trafiken men mycket i samarbete med de andra i gruppen ingående rederierna. Kapitalintensiv. Ettfartyg med förhållandevis stora kapitalkostnader. Kasko. Redarens primära försäkring som täcker fartyget.
+
+Kattrygg - innebär att fartyget har mera tyngd i fören och aktern än på mitten.
+
+Kabellängd - 185,2 meter (en 1/10:de dels nautisk mil). Inte att förväxlas med att lägga en kabel.
+
+Klarering. Ombesörjande av olika formaliteter och utbetalningar av hamnavgifter, tull etc i samband med att ett fartyg anlöper eller avgår från en hamn. Klareringen sköts av klarerareanställda av rederiets ombud i hamnen.
+
+Klassificeringssällskap - Oberoende organisation som kontrollerar fartygs säkerhet och kvalitet mot såväl egna som nationella myndigheters regler.
+
+Klausul - Bestämmelse i kontrakt.
+
+Knop - Mått på fartygets fart. En knop = en distansminut per timme, alltså: 1,85 km/tim.
+
+Kombinationsfartyg - Fartyg som kan användas både som tank- och bulkfartyg.
+
+Kommission - Mäklarens arvode – ofta 1,25 procent av bruttofrakten. Vid köp/försäljning ofta en procent av köpeskillingen.
+
+Kompass-sprit - vätska i kompassen ej avsedd för att drickas.
+
+Koj - säng.
+
+Konferens - Samtliga linjerederier som trafikerar samma trad. Inom konferensen regleras trafikutbud, frakter osv. Konossement (Bill of Lading). Sjötransportavtal som är ”omsättningsbart”, dv. det är en värdehandling som man kan sälja lastpartiet med.
+
+Konsekutiva resor - Ett bestämt antal enkelresor som i en följd kan utföras enligt avtal med befraktare. Konsortium. Ekonomiskt och trafikmässigt samgående mellan rederier för att lösa entransportuppgift.
+
+Kränga - luta.
+
+Lanterna - utelampa.
+
+LASH - Förkortning av Lighter Aboard Ship. Ett system där ett stort moderfartyg transporterar pråmar, som kan lastas, transporteras och sjösättas av moderfartyg.
+
+Lastkontrakt (Contract of Affreightment) - Redaren förbinder sig att transportera en bestämd lastkvantitet mellan avtalade destinationer över en viss period. Ofta stipuleras hur långaintervallen skall vara mellan varje resa och största tillåtna fartygsstorlek.
+
+LIBOR - London Inter Bank Offered Rate.
+
+Lift on lift off (lolo) - Lastning med hjälp av kranar och annan lyftutrustning. Containers placeras i sådana fartyg under däck i ett vertikalt gejdersystem (skenor som håller lådorna påplats).
+
+Liggedagar - Den tid befraktaren enligt fraktavtalet har rätt att disponera båten för lastning och lossning.
+
+Liner terms - De villkor på vilka linjesjöfarten transporterar gods varvid rederiet står för alla lastnings- och lossningskostnader, fartygets hamnumgälder osv.
+
+LNG (Liquified natural gas) - Flytande naturgas som transporteras nedkyld till –162°C.
+
+LOF, Lloyd’s Open Form - Standardiserat bärgningskontrakt. Den senaste versionen kallad LOF-95 tar hänsyn till bestämmelserna i International Convention of Salvage.
+
+LPG (Liquefied petroleum gas) - Flytande petroleumgas som transporteras under tryck och/eller nedkyld. Läktring. överföring av last mellan två fartyg till sjöss.
+
+Länsa - tömma ut något.
+
+Maastrichtfördraget - Fördrag om upprättande av en ekonomisk och politisk union, Europeiska Unionen, mellan EG-länderna som trädde i kraft 1/11 1993.
+
+Manifest - Ett dokument innehållande en fullständig lista över lasten i ett fartyg.
+
+MARPOL - International Convention for the Prevention of Pollution from Ships. IMOs konvention om utsläppsbegränsningar från fartyg.
+
+Mellanstatlighet - Samarbete mellan stater där de enskilda nationerna behåller sin nationella särart.
+
+M/S. - Motor Ship.
+
+M/V. - Motor Vessel.
+
+M/T. - Motor Tanker.
+
+Mäss - matsal.
+
+Navigera - orientera till sjöss.
+
+OBO-fartyg - (Oil, Bulk, Ore). Se kombinationsfartyg.
+
+Off Hire - Tid som tidsbefraktat fartyg är ur drift p.g.a. att fartyget tillfälligt inte är i förstklassigt skick. Under Off Hire utgår ingen tidshyra (fraktbetalning). Anledning till OffHire kan t.ex. vara klassning, bottenmålning, reparation etc.
+
+Operator - Den som för tillfället använder fartyget (vilket inte behöver vara redaren eftersom denne kan hyra ut sitt fartyg).
+
+Outsider - Rederi som opererar utanför och i konkurrens med konferenserna genom att underbjuda konferensernas fraktsatser.
+
+Panamax - Fartyg som uppfyller minst ett av följande kriterier, bredd 106 fot (30,5 m), längd 965 fot (294,1 meter) eller djupgående 39,5 fot (12,04 meter). Panamax är också ett begrepp förbulkfartyg på 50.000–80.000 ton dw. Cirka 80.000 ton dw är maximistorleken för att ett fullastat fartyg skall kunna passera Panamakanalen, därav namnet ”panmax”.
+
+Partredare - Delägare i ett fartyg, som ägs i en bolagsform som liknar kommanditbolagets. Partredare kan vara en enskild person eller ett aktiebolag. Inom sjöfarten förekommer det attbörsnoterade företag är partredare. En av partredarna utses som huvudredare.
+
+Pax - Förkortning av orden maximala antalet passagerare.
+
+Pentry - därifrån du hämtar maten.
+
+Personalintensiv - Fartyg med förhållandevis höga personalkostnader.
+
+Pool - Samarbete under avtalade former mellan ett antal rederier. Poolning. Fördelning av lasten eller frakten efter en viss formel. Inom konferenser förekommer pooler som är avsedda attförhindra onödig konkurrens. Inom samseglingsgrupper o d har man ofta pooler för att de deltagande rederierna skall få en rättvisare utdelning av de gemensamma ansträngningarna.
+
+Poopen - aktra förtöjningsdäcket.
+
+Postpanamax - Beteckning för en ny generation containerfartyg, och numera även kryssningsfartyg, vars dimensioner är för stora för att kunna passera genom Panamakanalen.
+
+Pre-cooling - Nedkylning av lastrum till bestämd temperatur under en viss period före lastning.
+
+Produkttanker - Fartyg som transporterar raffinerade produkter.
+
+Protection and Indemnity, P & I eller Pandi - Försäkring för rederiers ansvar gentemot tredje man.
+
+Protektionism - Statligt skydd under vilket den egna handelsflottan befrias från vissa konkurrensmoment.
+
+Proviant - Maten ombord.
+
+Pullmankoj - Koj (säng) som kan fällas upp i väggen (skottet) när den inte används.
+
+Pulp-temperature - Den temperatur som mätes inne i en viss vara exempelvis en nötkreaturskropp eller en frukt.
+
+Redd - Särskilt anvisat område där fartyg kan ankra i anslutning till en hamn, flod, kanal eller liknande.
+
+Reling- räcke som går runt hela fartyget.
+
+Resekostnader - Kostnader som är direkt relaterade till den aktuella resan, exempelvis bunker, hamnavgifter etc.
+
+Roll on roll off (roro) - Lastning och lossning genom att lasten köres ombord via en eller flera ramper i fartygets ändskepp eller sidor. De olika fartygsdäcken är förbundna genom ramper.
+
+Romfördraget - Fördrag från 1957 om upprättande av Europeiska Ekonomiska Gemenskapen EEC, senare EG.
+
+SAR, Search and Rescue - Organisation och operation vid sjöräddning.
+
+SBT, Segregated Ballast Tanks - Tankar i tankfartyg som endast används för ballast.
+
+Sextant - gammalt navigationshjälpmedel, har ingenting med sexiga tanter att göra.
+
+Shelterdeck - Däck, som ligger ovanför fartygets huvuddäck och som inte ingår i fartygets bruttotonnage. Shelterdeck var ursprungligen avsett som ett skydd mot vind och sjö och hade intesamma styrka som skrovet i övrigt. Med tiden har denna definition av finurliga konstruktörer urvattnats. Ett fartyg med stängt shelterdäck är byggt så att man genom vissa luckarrangemang alternativt kan använda det övre eller undre däcket som huvuddäck. Lastlinjemärkets placering beräknas från huvuddäcket.
+
+Sidport - Portliknande lucka i fartygets sida genom vilken lastning och lossning kan ske antingen genom ombordkörning eller från en kajtruck till en ombordtruck.
+
+Singledecker - Enkeldäckat fartyg. Skeppsmäklare. Fristående ombud som förmedlar last och/eller fartygsutrymme samt köp och försäljning av fartyg.
+
+Skott - vägg.
+
+Skrov - fartygets "hud".
+
+SOLAS-konventionen - International Convention for the Safety of Life at Sea. IMOs regelverk avseende framförallt fartygs säkra konstruktion och utrustning.
+
+Spant - del av fartygets "skelett".
+
+Spotmarknad - Fraktmarknad där fartyg slutes för enstaka resor.
+
+Spygatt - rännsten.
+
+SSS, Short Sea Shipping - Handelssjöfart mellan EU-länder.
+
+Standardbrygga - taket till bryggan.
+
+Styckegods - Gods som skeppas i mindre partier exempelvis lådor, kartonger, säckar, balar etc. direkt i fartyg eller samlastas i containers eller på andra lastbärare.
+
+STCW-konventionen - International Convention on Standards of Training, Certification and Watchkeeping for Seafarers. IMOs regelverk avseende utbildning och behörigheter för sjöpersonal samtregler för vakthållning på fartyg.
+
+Styrbord - höger.
+
+Svinrygg- motsats till kattrygg, dvs mer tyngd i mitten.
+
+Subsidiaritetsprincipen - Beslut inom EU skall tas på ”lägsta effektiva nivå” inom organisationen dvs. en fråga skall i första hand avgöras på nationell nivå om syftet inte bättre uppnås påEU-nivå.
+
+Suezmax - Tankfartyg på cirka 150.000 ton dw. Cirka 150.000 ton dw är maximistorleken för att ett fullastat fartyg skall kunna passera Suezkanalen, därav namnet ”suezmax”.
+
+Sydväst- vädersträck eller huvudbonad för dåligt väder.
+
+T/T - Turbine Tanker.
+
+Tainting - Skada på kyllast som vållats av lukt från andra laster. Bland gods som lätt skadas på detta sätt kan nämnas mejeriprodukter och frukt.
+
+Third flag carrier (cross trader) - Rederi som transporterar gods mellan utländska hamnar.
+
+Tidsbefraktning (timecharter) - Redare hyr ut sitt fartyg komplett och bemannat för en betalning som utgår med en viss summa per dag eller en viss summa per ton dw och månad. Den som hyrfartyget betalar för bunker och hamnavgifter.
+
+Tonkilometer - Ett prestationsmått som innebär transport av ett ton en kilometer.
+
+TOVALOP - Tanker Owners’ Voluntary Agreement concerning Liability for Oil Pollution. Världens tankfartygs frivilliga överenskommelse beträffande ekonomisk gottgörelse vid oljeskador.
+
+Trampmarknad - Den delen av sjöfartsmarknaden där man hyr fartyg för enstaka resa. Ett annat ord för trampmarknad är spotmarket.
+
+Tross - rep som man förtöjer fartyget med.
+
+Tåg - rep.
+
+ULCC. ”Ultra large crude carrier” - tankfartyg över 350.000 ton.
+
+Unitisering/Enhetslastning - Sammanföring av mindre kollin till större lastenheter för att underlätta lasthanteringen. Sådana större lastenheter kan byggas upp på lastpallar, lastflak etc.
+
+Vederlag - det du förtjänar in när du är ombord som gör att du också får lön när du är hemma på ledighet.
+
+Ventil - fönster.
+
+VLCC - ”Very large crude carrier” – tankfartyg över 200.000 ton.
+
+VTS - Vessel Traffic System. System för övervakning av sjötrafik.
+
+Väderdäck - öppet däck där last kan lastas.
+
+Worldscale (WS) - Ett internationellt fraktindex-system för tankfartyg. När tankfartyg kontrakteras för en last uttrycks frakten nästan alltid i procent av Worldscaleindex.
+
+Öppet fartyg - Ett fartyg där lucköppningarna till lastrummen sträcker sig praktiskt taget från fartygssida till fartygssida varvid någon horisontell förflyttning av lasten nere i lastrummenej behöver ske.
