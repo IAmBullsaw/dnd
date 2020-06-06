@@ -2,7 +2,7 @@ import json
 
 
 def all_paths() -> str:
-    for path in ['ord_till_sjöss_data.txt', 'sjötermer_data.txt', 'torbjörn_data.txt', 'lär_dig_mer_om_skeppsord_data.txt']:
+    for path in ['ord_till_sjöss_data.txt', 'sjötermer_data.txt', 'lär_dig_mer_om_skeppsord_data.txt', 'båttermer_data.txt']:
         yield path
 
 
@@ -75,6 +75,39 @@ def parse_sjotermer(data):
     return d
 
 
+def parse_skeppsord(data):
+    d = {'words': [], 'categories': []}
+    for line in data:
+        if line and len(line) > 1:
+            words = line.split()
+            word = ''.join(words[:1]).capitalize().rstrip(':')
+            description = ' '.join(words[1:])
+            description = description.lstrip(' ')
+            description = description.capitalize()
+            category = ''
+            d['words'].append({'word': word, 'description': description, 'category': category})
+            if category not in d['categories']:
+                d['categories'].append(category)
+    return d
+
+
+
+def parse_battermer(data):
+    d = {'words': [], 'categories': []}
+    for line in data:
+        if line and len(line) > 1:
+            words = line.split()
+            word = ''.join(words[:1]).capitalize().rstrip(':')
+            description = ' '.join(words[1:])
+            description = description.lstrip('– ')
+            description = description.capitalize()
+            category = ''
+            d['words'].append({'word': word, 'description': description, 'category': category})
+            if category not in d['categories']:
+                d['categories'].append(category)
+    return d
+
+
 if __name__ == '__main__':
     for path in all_paths():
         print('Parsing %s' % path)
@@ -84,9 +117,12 @@ if __name__ == '__main__':
             json_data = parse_ord_till_sjoss(data)
         elif path == 'sjötermer_data.txt':
             json_data = parse_sjotermer(data)
+        elif path == 'lär_dig_mer_om_skeppsord_data.txt':
+            json_data = parse_skeppsord(data)
+        elif path == 'båttermer_data.txt':
+            json_data = parse_battermer(data)
         else:
             continue
         db = get_db()
         db = add_to_db(db, json_data)
-        print(db)
-        # save_db(db)
+        save_db(db)
